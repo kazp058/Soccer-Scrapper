@@ -24,9 +24,9 @@ driver = webdriver.Chrome(service=service, options=options)
 capture_date = r'([0-9]{2}\/[0-9]{2}\/[0-9]{4})'
 capture_round = r'Jornada ([0-9]{1,2})'
 capture_ko = r'KO ([0-9]{2}\:[0-9]{2})'
-capture_stadium = r'(Estadio .+) \('
-capture_city = r'\((.*)\,'
-capture_state = r'\, (.*)\)'
+capture_stadium = r'Estadio ((Estádio )?[\w À-ÿ\d\.]*) \(.*\,'
+capture_city = r'\(([\w À-ÿ]*)\,'
+capture_state = r'\, ([\w À-ÿ]*)\)'
 
 stack = []
 score = r'[0-9] \- [0-9]'
@@ -120,6 +120,7 @@ for idx in range(len(links)):
         link = match[1]
         teams = match[0]
         driver.get(link)
+        
         WebDriverWait(driver=driver, timeout=5).until(
             EC.presence_of_element_located((By.CLASS_NAME, 'details '))
         )
@@ -128,7 +129,7 @@ for idx in range(len(links)):
         date = re.search(capture_date, details.text).groups()[0] if re.search(capture_date, details.text) != None else "null"
         round = re.search(capture_round, details.text).groups()[0] if re.search(capture_round, details.text) != None else match[2]
         ko = re.search(capture_ko, details.text).groups()[0] if re.search(capture_ko, details.text) != None else "null"
-        stadium = re.search(capture_stadium, details.text).groups()[0] if re.search(capture_stadium, details.text) != None else "null"
+        stadium = re.search(capture_stadium, details.text).groups()[0] if re.search(capture_stadium, details.text) != None else "null"     
         city = re.search(capture_city, details.text).groups()[0] if re.search(capture_city, details.text) != None else "null"
         state = re.search(capture_state, details.text).groups()[0] if re.search(capture_state, details.text) != None else "null"
 
@@ -141,8 +142,9 @@ for idx in range(len(links)):
                 date,
                 ko
                 )
-        line = ",".join(line) + "\n"
-        f.write(line) 
+        line = ",".join(line)
+        print(line)
+        f.write(line + '\n') 
         write_counter += 1
 
     f.close()
