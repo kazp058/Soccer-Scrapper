@@ -1,3 +1,4 @@
 # Soccer-Scrapper
 
-Descarga de aca cabron <3: https://chromedriver.chromium.org/downloads
+- get chromedriver according to your google chrome version: https://chromedriver.chromium.org/downloads
+- launch app from launcher.py
