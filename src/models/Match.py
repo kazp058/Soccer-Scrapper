@@ -1,3 +1,5 @@
+import datetime
+
 class Match:
 
     __MATCHES = {}
@@ -14,7 +16,7 @@ class Match:
         self.city = city
         self.state = state
         self.stadium = stadium
-        self.date = date
+        self.date :str = date
         self.ko = ko
 
     def build_from_string(string:str):
@@ -36,6 +38,25 @@ class Match:
 
     def get_cache()-> dict:
         return Match.__MATCHES
+
+    def get_timestamp(self) -> datetime.datetime:
+        __splitted_date = self.date.split("/")
+
+        day = int(__splitted_date[0])
+        month = int(__splitted_date[1])
+        year = int(__splitted_date[2])
+
+        if self.ko == "null":
+            self.ko = "18:00"
+        __splitted_ko = self.ko.split(":")
+        hour = int(__splitted_ko[0])
+        minute = int(__splitted_ko[1])
+
+        return datetime.datetime(year=year,
+                                  month=month,
+                                  day=day,
+                                  hour=hour,
+                                  minute=minute)
     
     def read_cache(__cache:any):
         for line in __cache:

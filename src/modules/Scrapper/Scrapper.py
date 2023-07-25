@@ -32,11 +32,9 @@ class Scrapper:
             if objective == Objective.MATCH:
                 self.url_pair = url_pair            
                 self.tournament = tournament
-                self.__filename = tournament + "_A1" 
 
             elif objective == Objective.DISTANCE:
                 self.url = url
-                self.__filename = ""
 
             service = Service(executable_path=".\\chromedriver.exe")
             options = webdriver.ChromeOptions()
@@ -100,9 +98,9 @@ class Scrapper:
         distancecss = route_box.find_element(By.CSS_SELECTOR, "div.distanceLine")
 
         time_box = route_box.find_element(By.CSS_SELECTOR, "table.drDurationTable")
-        hours = re.search(Scrapper.__capture_hour,time_box.text).groups()[0] if re.search(Scrapper.__capture_hour,time_box.text) != None else None
-        minutes = re.search(Scrapper.__capture_minutes, time_box.text).groups()[0]  if re.search(Scrapper.__capture_minutes, time_box.text) != None else None
-        distance = re.search(r'^([\d\.]+) km', distancecss.text).groups()[0]  if re.search(r'^([\d\.]+) km', distancecss.text) != None else None
+        hours = re.search(Scrapper.__capture_hour,time_box.text).groups()[0] if re.search(Scrapper.__capture_hour,time_box.text) != None else 0
+        minutes = re.search(Scrapper.__capture_minutes, time_box.text).groups()[0]  if re.search(Scrapper.__capture_minutes, time_box.text) != None else 0
+        distance = re.search(r'^([\d\.]+) km', distancecss.text).groups()[0]  if re.search(r'^([\d\.]+) km', distancecss.text) != None else 0
         
         self.__cache.append((distance, hours, minutes))
     
@@ -183,7 +181,7 @@ class Scrapper:
             details = self.driver.find_element(By.CLASS_NAME, "details ")
             date = re.search(Scrapper.__capture_date, details.text).groups()[0] if re.search(Scrapper.__capture_date, details.text) != None else "null"
             round = re.search(Scrapper.__capture_round, details.text).groups()[0] if re.search(Scrapper.__capture_round, details.text) != None else match[2]
-            ko = re.search(Scrapper.__capture_ko, details.text).groups()[0] if re.search(Scrapper.__capture_ko, details.text) != None else "null"
+            ko = re.search(Scrapper.__capture_ko, details.text).groups()[0] if re.search(Scrapper.__capture_ko, details.text) != None else "18:00"
             stadium = re.search(Scrapper.__capture_stadium, details.text).groups()[0] if re.search(Scrapper.__capture_stadium, details.text) != None else "null"     
             city = re.search(Scrapper.__capture_city, details.text).groups()[0] if re.search(Scrapper.__capture_city, details.text) != None else "null"
             state = re.search(Scrapper.__capture_state, details.text).groups()[0] if re.search(Scrapper.__capture_state, details.text) != None else "null"

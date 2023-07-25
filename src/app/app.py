@@ -7,6 +7,9 @@ from src.models.Distance import Distance
 from src.modules.FileManager.FileManager import FileManager
 from src.modules.FileManager.FileManager import Objective as fm_obj
 from src.modules.FileManager.FileManager import By as fm_by
+
+from src.modules.Simulate.Simulate import Simulate
+
 class App:
     __url_pairs = [("https://el.soccerway.com/national/brazil/paulista-a1/2023/regular-season/r68430/",
                 "https://el.soccerway.com/national/brazil/paulista-a1/2023/s21397/final-stages/"),
@@ -67,8 +70,7 @@ class App:
            
 
     def __simulate():
-        scrapper = Scrapper(url= "", objective=scrp_obj.DISTANCE)
-        __cache = scrapper.launch(objective=scrp_obj.DISTANCE,address_a="", address_b="")
+        Simulate.launch(0, Match.get_cache())
         pass
 
     def __preload():
@@ -88,6 +90,7 @@ class App:
             Match.read_cache(__cache_MATCHES)
 
         __cache_DISTANCES = FileManager.open_file("distances")
+        Distance.read_cache(__cache_DISTANCES)
  
         print("Loaded distances: " + str(len(__cache_DISTANCES)))
         print("Loaded matches: " + str(len(__cache_MATCHES))) 

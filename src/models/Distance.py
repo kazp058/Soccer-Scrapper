@@ -1,3 +1,8 @@
+from src.modules.Scrapper.Scrapper import Scrapper
+from src.modules.Scrapper.Scrapper import Objective as scp_obj
+from src.modules.FileManager.FileManager import FileManager
+from src.modules.FileManager.FileManager import Objective as fm_obj
+
 class Distance:
 
     __FILENAME = "distances"
@@ -24,13 +29,13 @@ class Distance:
     def __str__(self) -> str:
         return self.location_a + "|" + self.location_b + "|" + str(self.distance) + "|" + str(self.time)
     
-    def __check_if_distance_exists(__value: object) -> bool:
+    def __check_if_distance_exists(__value: any) -> bool:
         for distance in Distance.__DISTANCES:
             if distance == __value:
-                return True
-        return False
+                return distance
+        return None
     
-    def add_distance(__value: str) -> bool:
+    def add_distance(__value: any) -> bool:
         if not Distance.__check_if_distance_exists(__value):
             Distance.__DISTANCES.append(__value)
     
@@ -39,8 +44,8 @@ class Distance:
         new_distance = Distance()
         new_distance.location_a = __distance[0]
         new_distance.location_b = __distance[1]
-        new_distance.distance = __distance[2]
-        new_distance.time = __distance[3]
+        new_distance.distance = float(__distance[2])
+        new_distance.time = int(__distance[3])
         return new_distance
     
     def get_distances() -> list:
@@ -52,14 +57,28 @@ class Distance:
         return minutes + hours * 60
     
     def read_cache(__cache:any):
-        Distance.clean_cache()
         for line in __cache:
             current_distance = Distance.build_from_string(line)
             Distance.__DISTANCES.append(current_distance)
+        print("r:", Distance.__DISTANCES)
 
     def clean_cache() -> None:
         Distance.__DISTANCES = []
 
-    def calculate() -> None:
-        #llamar a scrapper para poder extraer la distancia
-        pass
+    def calculate(self) -> None:
+        distance = Distance.__check_if_distance_exists(self)
+        
+        if distance != None:
+            return distance
+        else:
+            if self.location_a == self.location_b:
+                self.distance = 0
+                self.time = 0
+            else:
+                scrapper = Scrapper(scp_obj.DISTANCE)
+                result = scrapper.launch(objective=scp_obj.DISTANCE, address_a=self.location_a, address_b=self.location_b)[0]
+                self.distance = float(result[0])
+                self.time = int(result[1]) * 60 + int(result[2]) + 30
+                Distance.add_distance(self)
+                FileManager.save("distances",self,objective=fm_obj.OBJECT)
+            return self
