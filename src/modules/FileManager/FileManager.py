@@ -1,5 +1,4 @@
 import os
-from src.models.Match import Match
 
 class By:
     DATE = "DATE"
@@ -71,8 +70,8 @@ class FileManager:
         try:
             with open(FileManager.__FOLDER + __filename + FileManager.__EXTENSION, "r", encoding=FileManager.__ENCODING) as f:
                 for line in f.readlines():
-                    current_match = line.strip()
-                    __cache.append(current_match)
+                    current_line = line.strip()
+                    __cache.append(current_line)
             return __cache
         except FileNotFoundError:
             return __cache

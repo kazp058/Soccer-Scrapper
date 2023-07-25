@@ -2,6 +2,9 @@ import sys
 from src.modules.Menu.Menu import Menu
 from src.modules.Scrapper.Scrapper import Scrapper 
 from src.modules.Scrapper.Scrapper import Objective as scrp_obj
+from src.models.Match import Match
+from src.models.Distance import Distance
+from src.modules.FileManager.FileManager import FileManager
 
 class App:
     __url_pairs = [("https://el.soccerway.com/national/brazil/paulista-a1/2023/regular-season/r68430/",
@@ -19,7 +22,6 @@ class App:
         sys.exit(0)
 
     def __scrapper_all():
-        __cache = []
         for idx in range(len(App.__tournaments)):
             tournament = App.__tournaments[idx]
             url_pair = App.__url_pairs[idx]
@@ -27,33 +29,54 @@ class App:
             scrapper = Scrapper(url_pair= url_pair, 
                                 tournament= tournament, 
                                 objective=scrp_obj.MATCH)
-            scrapper.launch(scrp_obj.MATCH)
+            __cache = scrapper.launch(scrp_obj.MATCH)
+            print("Loaded matches: " + str(len(__cache))) 
+            Match.read_cache(__cache)
 
     def __scrapper_paulista():
-        __cache = []
         scrapper = Scrapper(url_pair= App.__url_pairs[0], 
                             tournament= App.__tournaments[0], 
                             objective=scrp_obj.MATCH)
-        scrapper.launch(scrp_obj.MATCH)
+        __cache = scrapper.launch(scrp_obj.MATCH)
+        print("Loaded matches: " + str(len(__cache))) 
+        Match.read_cache(__cache)
 
     def __scrapper_gaucho():
         scrapper = Scrapper(url_pair= App.__url_pairs[1], 
                             tournament= App.__tournaments[1], 
                             objective=scrp_obj.MATCH)
-        scrapper.launch(scrp_obj.MATCH)
+        __cache = scrapper.launch(scrp_obj.MATCH)
+        print("Loaded matches: " + str(len(__cache))) 
+        Match.read_cache(__cache)
 
     def __scrapper_mineiro():
-        __cache = []
         scrapper = Scrapper(url_pair= App.__url_pairs[2],  
                             tournament= App.__tournaments[2], 
                             objective=scrp_obj.MATCH)
-        scrapper.launch(scrp_obj.MATCH) 
+        __cache = scrapper.launch(scrp_obj.MATCH)
+        print("Loaded matches: " + str(len(__cache))) 
+        Match.read_cache(__cache) 
            
 
     def __simulate():
+        scrapper = Scrapper(url= "", objective=scrp_obj.DISTANCE)
+        __cache = scrapper.launch(objective=scrp_obj.DISTANCE,address_a="", address_b="")
         pass
 
     def __preload():
+        #load matches if available
+        __cache_MATCHES = FileManager.open_file("joint_A1")
+        if len(__cache_MATCHES) == 0:
+            __cache_MATCHES = []
+            for tournament in App.__tournaments:
+                __cache_MATCHES += FileManager.open_file(tournament + "_A1")
+
+        __cache_DISTANCES = FileManager.open_file("distances")
+ 
+        print("Loaded distances: " + str(len(__cache_DISTANCES)))
+        #load distances if available
+        print("Loaded matches: " + str(len(__cache_MATCHES))) 
+        #if no matches available then ask if scrapper
         pass
 
     def run():

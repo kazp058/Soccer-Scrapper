@@ -30,7 +30,7 @@ class Scrapper:
             self.__cache = []
             self.stack = []
             if objective == Objective.MATCH:
-                self.url_pair = tuple            
+                self.url_pair = url_pair            
                 self.tournament = tournament
                 self.__filename = tournament + "_A1" 
 
@@ -48,6 +48,9 @@ class Scrapper:
 
             self.driver = webdriver.Chrome(service=service, options=options)
     
+    def __die(self):
+        self.driver.quit()
+
     def launch(self, objective, address_a = None, address_b = None) -> any:
         
         if(objective== Objective.MATCH):
@@ -106,7 +109,6 @@ class Scrapper:
     def __prepare_match(self):
         btn_class = ''
         btn = None
-
         self.driver.get(self.url_pair[1])    
         WebDriverWait(driver=self.driver, timeout=5).until(
                 EC.presence_of_element_located((By.CLASS_NAME, 'redesign'))

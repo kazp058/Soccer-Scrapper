@@ -1,6 +1,6 @@
 class Match:
 
-    __MATCHES = []
+    __MATCHES = {}
 
     def __init__(self, tournament = None, 
                  round = None, home = None, 
@@ -38,7 +38,6 @@ class Match:
         return Match.__MATCHES
     
     def read_cache(__cache:any):
-        Match.clean_cache()
         for line in __cache:
             current_match = Match.build_from_string(line)
 
@@ -53,7 +52,7 @@ class Match:
             ko = ko.split(":")
             ko = int(ko[0] + ko[1]) if len(ko) > 1 else 0
 
-            by_date = Match.get(date)
+            by_date = Match.__MATCHES.get(date)
             by_ko = by_date.get(ko, {})
             
             match_id = gameround + "_" + home
