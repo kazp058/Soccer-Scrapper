@@ -42,7 +42,7 @@ class Kit:
                 return False
             
             minutes = diff.total_seconds() // 60 
-            self.timeframe = minutes // 60
+            self.timeframe = timestamp
             if self.type == self.TYPE_KIT and minutes >= self.__MIN_TIME_ALLOWED_KIT:
                 return True
             elif self.type == self.TYPE_VAN and minutes >= self.__MIN_TIME_ALLOWED_VAN:
