@@ -9,6 +9,7 @@ from src.modules.FileManager.FileManager import Objective as fm_obj
 from src.modules.FileManager.FileManager import By as fm_by
 
 from src.modules.Simulate.Simulate import Simulate
+from src.modules.Simulate.Simulate import By as sim_by
 
 class App:
     __url_pairs = [("https://el.soccerway.com/national/brazil/paulista-a1/2023/regular-season/r68430/",
@@ -26,6 +27,11 @@ class App:
         sys.exit(0)
 
     def __scrapper_all():
+        FileManager.delete("joint_A1")
+        FileManager.delete("Paulista_A1")
+        FileManager.delete("Gaucho_A1")
+        FileManager.delete("Mineiro_A1")
+        __cache = []
         for idx in range(len(App.__tournaments)):
             tournament = App.__tournaments[idx]
             url_pair = App.__url_pairs[idx]
@@ -33,15 +39,16 @@ class App:
             scrapper = Scrapper(url_pair= url_pair, 
                                 tournament= tournament, 
                                 objective=scrp_obj.MATCH)
-            __cache = scrapper.launch(scrp_obj.MATCH)
+            __cache = __cache + scrapper.launch(scrp_obj.MATCH)
             print("Loaded matches: " + str(len(__cache))) 
-            Match.clean_cache()
-            Match.read_cache(__cache)
-            FileManager.save("joint_A1", Match.get_cache(),objective=fm_obj.DICT)
-            FileManager.save("Gaucho_A1", Match.get_cache(),objective=fm_obj.DICT, by= fm_by.TOURNAMENT_GAUCHO)
-            FileManager.save("Paulista_A1", Match.get_cache(),objective=fm_obj.DICT, by= fm_by.TOURNAMENT_PAULISTA)
-            FileManager.save("Mineiro_A1", Match.get_cache(),objective=fm_obj.DICT, by= fm_by.TOURNAMENT_MINEIRO)
+        Match.clean_cache()
+        Match.read_cache(__cache)
+        FileManager.save("joint_A1", Match.get_cache(),objective=fm_obj.DICT)
+        FileManager.save("Gaucho_A1", Match.get_cache(),objective=fm_obj.DICT, by= fm_by.TOURNAMENT_GAUCHO)
+        FileManager.save("Paulista_A1", Match.get_cache(),objective=fm_obj.DICT, by= fm_by.TOURNAMENT_PAULISTA)
+        FileManager.save("Mineiro_A1", Match.get_cache(),objective=fm_obj.DICT, by= fm_by.TOURNAMENT_MINEIRO)
     def __scrapper_paulista():
+        FileManager.delete("Paulista_A1")
         scrapper = Scrapper(url_pair= App.__url_pairs[0], 
                             tournament= App.__tournaments[0], 
                             objective=scrp_obj.MATCH)
@@ -51,6 +58,7 @@ class App:
         FileManager.save("Paulista_A1", Match.get_cache(),objective=fm_obj.DICT, by= fm_by.TOURNAMENT_PAULISTA)
 
     def __scrapper_gaucho():
+        FileManager.delete("Gaucho_A1")
         scrapper = Scrapper(url_pair= App.__url_pairs[1], 
                             tournament= App.__tournaments[1], 
                             objective=scrp_obj.MATCH)
@@ -60,6 +68,7 @@ class App:
         FileManager.save("Gaucho_A1", Match.get_cache(),objective=fm_obj.DICT, by= fm_by.TOURNAMENT_GAUCHO)
 
     def __scrapper_mineiro():
+        FileManager.delete("Mineiro_A1")
         scrapper = Scrapper(url_pair= App.__url_pairs[2],  
                             tournament= App.__tournaments[2], 
                             objective=scrp_obj.MATCH)

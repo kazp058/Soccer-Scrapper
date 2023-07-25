@@ -33,691 +33,209 @@ Gaucho|1|Esportivo|São José RS|Bento Gonçalves|Rio Grande do Sul|Estádio Par
 Paulista|3|Ferroviária|Santo André|Araraquara|São Paulo|Estádio Doutor Adhemar de Barros|22/01/2023|18:30
 Paulista|3|Botafogo SP|Mirassol|Ribeirão Preto|São Paulo|Estádio Santa Cruz|22/01/2023|18:30
 Mineiro|1|Democrata GV|Democrata SL|Governador Valadares|Minas Gerais|Estádio José Mammoud Abbas|23/01/2023|18:30
-Paulista|4|Corinthians|Guarani|São Paulo|São Paulo|Neo Química Arena|24/01/2023|null
 Gaucho|2|Juventude|São Luiz|Caxias do Sul|Rio Grande do Sul|Estádio Alfredo Jaconi|24/01/2023|17:00
-Paulista|4|Bragantino|Ferroviária|Bragança Paulista|São Paulo|Estádio Nabi Abi Chedid|25/01/2023|17:00
-Gaucho|2|Avenida|Internacional|Santa Cruz do Sul|Rio Grande do Sul|Estádio dos Eucaliptos|25/01/2023|17:00
-Paulista|4|Ituano|Palmeiras|Itu|São Paulo|Estádio Municipal Dr. Novelli Júnior|25/01/2023|17:30
-Paulista|4|Santo André|Botafogo SP|Santo André|São Paulo|Estádio Bruno José Daniel|25/01/2023|18:30
-Gaucho|2|Grêmio|Brasil de Pelotas|Porto Alegre|Rio Grande do Sul|Arena do Grêmio|25/01/2023|19:30
-Paulista|4|Santos|Água Santa|Santos|São Paulo|Estádio Urbano Caldeira|25/01/2023|19:35
-Paulista|4|San Bento|Inter de Limeira|Sorocaba|São Paulo|Estádio Municipal Walter Ribeiro|26/01/2023|13:30
-Gaucho|2|São José RS|Caxias|Porto Alegre|Rio Grande do Sul|Estádio Francisco Novelletto Neto|26/01/2023|17:00
-Gaucho|2|Ypiranga Erechim|Novo Hamburgo|Erechim|Rio Grande do Sul|Estádio Olímpico Colosso da Lagoa|26/01/2023|17:00
-Paulista|4|Mirassol|São Bernardo FC|Mirassol|São Paulo|Estádio José Maria de Campos Maia|26/01/2023|17:30
-Gaucho|2|Aimoré|Esportivo|São Leopoldo|Rio Grande do Sul|Estádio João Corrêa da Silveira|26/01/2023|18:30
-Paulista|4|São Paulo|Portuguesa|São Paulo|São Paulo|Estádio Cícero Pompeu de Toledo|26/01/2023|19:30
-Paulista|5|Bragantino|Santo André|Bragança Paulista|São Paulo|Estádio Nabi Abi Chedid|28/01/2023|null
-Mineiro|2|Cruzeiro|Athletic Club|Belo Horizonte|Minas Gerais|Estádio Raimundo Sampaio|28/01/2023|08:30
-Mineiro|2|Democrata SL|Pouso Alegre|Sete Lagoas|Minas Gerais|Arena do Jacaré|28/01/2023|14:00
-Mineiro|2|Caldense|Democrata GV|Poços de Caldas|Minas Gerais|Estádio Dr. Ronaldo Junqueira|28/01/2023|14:00
-Gaucho|3|Internacional|São Luiz|Porto Alegre|Rio Grande do Sul|Estádio José Pinheiro Borda|28/01/2023|14:30
-Paulista|5|Santos|Ferroviária|São Paulo|São Paulo|Estádio Dr. Oswaldo Teixeira Duarte|28/01/2023|16:30
-Paulista|5|Botafogo SP|Guarani|Ribeirão Preto|São Paulo|Estádio Santa Cruz|28/01/2023|18:40
-Mineiro|2|Tombense|Atlético Mineiro|Muriaé|Minas Gerais|Estádio Soares de Azevedo|29/01/2023|09:00
-Paulista|5|Água Santa|Portuguesa|São Paulo|São Paulo|Estádio Distrital do Jardim Inamar|29/01/2023|13:00
-Paulista|5|São Bernardo FC|San Bento|São Bernardo do Campo|São Paulo|Estádio Primeiro de Maio|29/01/2023|14:00
-Paulista|5|Inter de Limeira|Ituano|Limeira|São Paulo|Estádio Major José Levy Sobrinho|29/01/2023|14:00
-Gaucho|3|Esportivo|Brasil de Pelotas|Bento Gonçalves|Rio Grande do Sul|Estádio Parque Esportivo Montanha dos Vinhedos|29/01/2023|14:00
-Gaucho|3|Avenida|Ypiranga Erechim|Santa Cruz do Sul|Rio Grande do Sul|Estádio dos Eucaliptos|29/01/2023|14:00
-Paulista|5|São Paulo|Corinthians|São Paulo|São Paulo|Estádio Cícero Pompeu de Toledo|29/01/2023|16:30
-Mineiro|2|América Mineiro|Villa Nova|Belo Horizonte|Minas Gerais|Estádio Raimundo Sampaio|29/01/2023|16:30
-Gaucho|3|Caxias|Aimoré|Caxias do Sul|Rio Grande do Sul|Estádio Francisco Stédile|29/01/2023|17:00
-Gaucho|3|São José RS|Grêmio|Porto Alegre|Rio Grande do Sul|Estádio Francisco Novelletto Neto|29/01/2023|18:30
-Gaucho|3|Novo Hamburgo|Juventude|Novo Hamburgo|Rio Grande do Sul|Estádio do Vale|30/01/2023|null
-Gaucho|4|Esportivo|Grêmio|Bento Gonçalves|Rio Grande do Sul|Estádio Parque Esportivo Montanha dos Vinhedos|01/02/2023|null
-Gaucho|4|Aimoré|São José RS|São Leopoldo|Rio Grande do Sul|Estádio João Corrêa da Silveira|01/02/2023|17:00
-Gaucho|4|Brasil de Pelotas|Caxias|Pelotas|Rio Grande do Sul|Estádio Bento da Silva Freitas|01/02/2023|19:30
-Paulista|5|Mirassol|Palmeiras|Mirassol|São Paulo|Estádio José Maria de Campos Maia|01/02/2023|19:35
-Gaucho|4|Juventude|Avenida|Caxias do Sul|Rio Grande do Sul|Estádio Alfredo Jaconi|02/02/2023|null
-Gaucho|4|Internacional|Ypiranga Erechim|Porto Alegre|Rio Grande do Sul|Estádio José Pinheiro Borda|02/02/2023|14:30
-Gaucho|4|São Luiz|Novo Hamburgo|Ijuí|Rio Grande do Sul|Estádio 19 de Outubro|02/02/2023|17:00
-Mineiro|3|Democrata GV|Athletic Club|Governador Valadares|Minas Gerais|Estádio José Mammoud Abbas|03/02/2023|18:30
-Paulista|6|San Bento|Mirassol|Sorocaba|São Paulo|Estádio Municipal Walter Ribeiro|04/02/2023|13:30
-Paulista|6|Guarani|Bragantino|Campinas|São Paulo|Estádio Brinco de Ouro da Princesa|04/02/2023|14:00
-Paulista|6|Ferroviária|São Bernardo FC|Araraquara|São Paulo|Estádio Doutor Adhemar de Barros|04/02/2023|14:00
-Mineiro|3|Democrata SL|Villa Nova|Sete Lagoas|Minas Gerais|Arena do Jacaré|04/02/2023|14:00
-Gaucho|5|Grêmio|Aimoré|Porto Alegre|Rio Grande do Sul|Arena do Grêmio|04/02/2023|14:30
-Mineiro|3|América Mineiro|Cruzeiro|Brasília|Distrito Federal|Arena BRB Mané Garrincha|04/02/2023|14:30
-Mineiro|3|Pouso Alegre|CA Patrocinense|Pouso Alegre|Minas Gerais|Estádio Municipal Irmão Gino Maria Rossi|04/02/2023|15:00
-Paulista|6|Palmeiras|Santos|São Paulo|São Paulo|Estádio Cícero Pompeu de Toledo|04/02/2023|16:30
-Mineiro|3|Tombense|Caldense|Muriaé|Minas Gerais|Estádio Soares de Azevedo|04/02/2023|17:00
-Mineiro|3|Betim EC|Atlético Mineiro|Ipatinga|Minas Gerais|Estádio João Lamego Neto|04/02/2023|17:00
-Paulista|6|Ituano|Água Santa|Itu|São Paulo|Estádio Municipal Dr. Novelli Júnior|05/02/2023|09:00
-Paulista|6|Santo André|São Paulo|Santo André|São Paulo|Estádio Bruno José Daniel|05/02/2023|14:00
-Gaucho|5|Caxias|Esportivo|Caxias do Sul|Rio Grande do Sul|Estádio Francisco Stédile|05/02/2023|14:00
-Paulista|6|Corinthians|Botafogo SP|São Paulo|São Paulo|Neo Química Arena|05/02/2023|16:30
-Gaucho|5|Ypiranga Erechim|Juventude|Erechim|Rio Grande do Sul|Estádio Olímpico Colosso da Lagoa|05/02/2023|16:30
-Gaucho|5|São José RS|Brasil de Pelotas|Porto Alegre|Rio Grande do Sul|Estádio Francisco Novelletto Neto|05/02/2023|17:00
-Gaucho|5|Avenida|São Luiz|Santa Cruz do Sul|Rio Grande do Sul|Estádio dos Eucaliptos|05/02/2023|17:00
-Paulista|6|Portuguesa|Inter de Limeira|São Paulo|São Paulo|Estádio Dr. Oswaldo Teixeira Duarte|05/02/2023|18:30
-Gaucho|5|Novo Hamburgo|Internacional|Novo Hamburgo|Rio Grande do Sul|Estádio do Vale|05/02/2023|18:30
-Mineiro|4|Athletic Club|América Mineiro|São João Del Rei|Minas Gerais|Estádio Joaquim Portugal|07/02/2023|null
-Paulista|7|Mirassol|Ferroviária|Mirassol|São Paulo|Estádio José Maria de Campos Maia|07/02/2023|17:30
-Mineiro|4|Cruzeiro|Pouso Alegre|Belo Horizonte|Minas Gerais|Estádio Raimundo Sampaio|07/02/2023|19:30
-Gaucho|6|São Luiz|Esportivo|Ijuí|Rio Grande do Sul|Estádio 19 de Outubro|08/02/2023|null
-Mineiro|4|CA Patrocinense|Tombense|Patrocínio|Minas Gerais|Estádio Pedro Alves do Nascimento|08/02/2023|null
-Mineiro|4|Caldense|Betim EC|Poços de Caldas|Minas Gerais|Estádio Dr. Ronaldo Junqueira|08/02/2023|null
-Gaucho|6|Novo Hamburgo|Brasil de Pelotas|Novo Hamburgo|Rio Grande do Sul|Estádio do Vale|08/02/2023|17:00
-Mineiro|4|Atlético Mineiro|Democrata SL|Belo Horizonte|Minas Gerais|Estádio Raimundo Sampaio|08/02/2023|17:15
-Paulista|7|Bragantino|São Paulo|Bragança Paulista|São Paulo|Estádio Nabi Abi Chedid|08/02/2023|17:30
-Paulista|7|Guarani|Portuguesa|Campinas|São Paulo|Estádio Brinco de Ouro da Princesa|08/02/2023|18:30
-Paulista|7|Botafogo SP|Ituano|Ribeirão Preto|São Paulo|Estádio Santa Cruz|08/02/2023|18:30
-Mineiro|4|Villa Nova|Democrata GV|Nova Lima|Minas Gerais|Estádio Municipal Castor de Cifuentes|08/02/2023|18:30
-Gaucho|6|Internacional|Caxias|Porto Alegre|Rio Grande do Sul|Estádio José Pinheiro Borda|08/02/2023|19:30
-Paulista|7|Santos|San Bento|Santos|São Paulo|Estádio Urbano Caldeira|08/02/2023|19:35
-Paulista|7|Santo André|Água Santa|Santo André|São Paulo|Estádio Bruno José Daniel|09/02/2023|16:00
-Gaucho|6|Avenida|Aimoré|Santa Cruz do Sul|Rio Grande do Sul|Estádio dos Eucaliptos|09/02/2023|17:00
-Gaucho|6|Ypiranga Erechim|São José RS|Erechim|Rio Grande do Sul|Estádio Olímpico Colosso da Lagoa|09/02/2023|17:00
-Paulista|7|Palmeiras|Inter de Limeira|São Paulo|São Paulo|Allianz Parque|09/02/2023|17:30
-Gaucho|6|Juventude|Grêmio|Caxias do Sul|Rio Grande do Sul|Estádio Alfredo Jaconi|09/02/2023|17:30
-Paulista|7|São Bernardo FC|Corinthians|São Bernardo do Campo|São Paulo|Estádio Primeiro de Maio|09/02/2023|19:30
-Mineiro|5|Caldense|Villa Nova|Poços de Caldas|Minas Gerais|Estádio Dr. Ronaldo Junqueira|11/02/2023|14:00
-Mineiro|5|América Mineiro|Democrata GV|Belo Horizonte|Minas Gerais|Estádio Raimundo Sampaio|11/02/2023|16:00
-Paulista|8|Ferroviária|Botafogo SP|Araraquara|São Paulo|Estádio Doutor Adhemar de Barros|11/02/2023|16:30
-Paulista|8|San Bento|Guarani|Sorocaba|São Paulo|Estádio Municipal Walter Ribeiro|11/02/2023|17:00
-Gaucho|7|Esportivo|Novo Hamburgo|Bento Gonçalves|Rio Grande do Sul|Estádio Parque Esportivo Montanha dos Vinhedos|11/02/2023|17:00
-Paulista|8|Bragantino|Mirassol|Bragança Paulista|São Paulo|Estádio Nabi Abi Chedid|11/02/2023|18:30
-Gaucho|7|Brasil de Pelotas|Internacional|Pelotas|Rio Grande do Sul|Estádio Bento da Silva Freitas|11/02/2023|18:30
-Paulista|8|Água Santa|Palmeiras|São Paulo|São Paulo|Estádio Distrital do Jardim Inamar|12/02/2023|09:00
-Mineiro|5|CA Patrocinense|Athletic Club|Patrocínio|Minas Gerais|Estádio Pedro Alves do Nascimento|12/02/2023|09:00
-Paulista|8|Portuguesa|Corinthians|Brasília|Distrito Federal|Arena BRB Mané Garrincha|12/02/2023|14:00
-Gaucho|7|Caxias|São Luiz|Caxias do Sul|Rio Grande do Sul|Estádio Francisco Stédile|12/02/2023|14:00
-Gaucho|7|Grêmio|Avenida|Porto Alegre|Rio Grande do Sul|Arena do Grêmio|12/02/2023|14:00
-Mineiro|5|Democrata SL|Betim EC|Sete Lagoas|Minas Gerais|Arena do Jacaré|12/02/2023|14:00
-Mineiro|5|Pouso Alegre|Tombense|Pouso Alegre|Minas Gerais|Estádio Municipal Irmão Gino Maria Rossi|12/02/2023|15:00
-Paulista|8|São Paulo|Santos|São Paulo|São Paulo|Estádio Cícero Pompeu de Toledo|12/02/2023|17:00
-Gaucho|7|Aimoré|Ypiranga Erechim|São Leopoldo|Rio Grande do Sul|Estádio João Corrêa da Silveira|12/02/2023|17:00
-Paulista|8|Inter de Limeira|Santo André|Limeira|São Paulo|Estádio Major José Levy Sobrinho|12/02/2023|18:30
-Gaucho|7|São José RS|Juventude|Porto Alegre|Rio Grande do Sul|Estádio Francisco Novelletto Neto|13/02/2023|null
-Mineiro|5|Cruzeiro|Atlético Mineiro|Belo Horizonte|Minas Gerais|Estádio Raimundo Sampaio|13/02/2023|null
-Paulista|9|Botafogo SP|San Bento|Ribeirão Preto|São Paulo|Estádio Santa Cruz|14/02/2023|17:30
-Paulista|9|Água Santa|Bragantino|São Paulo|São Paulo|Estádio Distrital do Jardim Inamar|15/02/2023|13:00
-Paulista|9|Guarani|São Bernardo FC|Campinas|São Paulo|Estádio Brinco de Ouro da Princesa|15/02/2023|17:30
-Paulista|9|Portuguesa|Ferroviária|São Paulo|São Paulo|Estádio Dr. Oswaldo Teixeira Duarte|15/02/2023|18:30
-Paulista|9|São Paulo|Inter de Limeira|São Paulo|São Paulo|Estádio Cícero Pompeu de Toledo|15/02/2023|19:35
-Paulista|9|Mirassol|Ituano|Mirassol|São Paulo|Estádio José Maria de Campos Maia|16/02/2023|16:00
-Paulista|9|Santo André|Santos|Santo André|São Paulo|Estádio Bruno José Daniel|16/02/2023|17:30
-Gaucho|8|Novo Hamburgo|Caxias|Novo Hamburgo|Rio Grande do Sul|Estádio do Vale|16/02/2023|19:00
-Paulista|9|Corinthians|Palmeiras|São Paulo|São Paulo|Neo Química Arena|16/02/2023|19:30
-Gaucho|8|Juventude|Aimoré|Caxias do Sul|Rio Grande do Sul|Estádio Alfredo Jaconi|16/02/2023|19:30
-Gaucho|8|Internacional|São José RS|Porto Alegre|Rio Grande do Sul|Estádio José Pinheiro Borda|16/02/2023|19:30
-Mineiro|6|Athletic Club|Caldense|São João Del Rei|Minas Gerais|Estádio Joaquim Portugal|17/02/2023|17:30
-Mineiro|6|Betim EC|América Mineiro|Ipatinga|Minas Gerais|Estádio João Lamego Neto|17/02/2023|19:30
-Paulista|10|Ferroviária|Guarani|Araraquara|São Paulo|Estádio Doutor Adhemar de Barros|18/02/2023|14:00
-Paulista|10|Inter de Limeira|Água Santa|Limeira|São Paulo|Estádio Major José Levy Sobrinho|18/02/2023|14:00
-Gaucho|8|São Luiz|Grêmio|Ijuí|Rio Grande do Sul|Estádio 19 de Outubro|18/02/2023|14:30
-Mineiro|6|Atlético Mineiro|CA Patrocinense|Belo Horizonte|Minas Gerais|Estádio Raimundo Sampaio|18/02/2023|14:30
-Mineiro|6|Tombense|Democrata SL|Muriaé|Minas Gerais|Estádio Soares de Azevedo|18/02/2023|15:00
-Gaucho|8|Avenida|Esportivo|Santa Cruz do Sul|Rio Grande do Sul|Estádio dos Eucaliptos|18/02/2023|17:00
-Gaucho|8|Ypiranga Erechim|Brasil de Pelotas|Erechim|Rio Grande do Sul|Estádio Olímpico Colosso da Lagoa|18/02/2023|17:00
-Mineiro|6|Villa Nova|Cruzeiro|Nova Lima|Minas Gerais|Estádio Municipal Castor de Cifuentes|18/02/2023|17:00
-Paulista|10|São Bernardo FC|Botafogo SP|São Bernardo do Campo|São Paulo|Estádio Primeiro de Maio|19/02/2023|14:00
-Paulista|10|Santos|Portuguesa|Santos|São Paulo|Estádio Urbano Caldeira|19/02/2023|14:00
-Paulista|10|Corinthians|Mirassol|São Paulo|São Paulo|Neo Química Arena|19/02/2023|16:30
-Paulista|10|Ituano|Santo André|Itu|São Paulo|Estádio Municipal Dr. Novelli Júnior|19/02/2023|18:40
-Mineiro|6|Democrata GV|Pouso Alegre|Governador Valadares|Minas Gerais|Estádio José Mammoud Abbas|20/02/2023|18:30
-Paulista|10|San Bento|São Paulo|Sorocaba|São Paulo|Estádio Municipal Walter Ribeiro|21/02/2023|17:30
-Paulista|8|Ituano|São Bernardo FC|Itu|São Paulo|Estádio Municipal Dr. Novelli Júnior|22/02/2023|17:30
-Mineiro|1|Villa Nova|Betim EC|Nova Lima|Minas Gerais|Estádio Municipal Castor de Cifuentes|22/02/2023|18:30
-Paulista|10|Palmeiras|Bragantino|São Paulo|São Paulo|Allianz Parque|22/02/2023|19:35
-Mineiro|7|Caldense|Cruzeiro|Poços de Caldas|Minas Gerais|Estádio Dr. Ronaldo Junqueira|23/02/2023|14:30
-Gaucho|9|Brasil de Pelotas|Avenida|Pelotas|Rio Grande do Sul|Estádio Bento da Silva Freitas|24/02/2023|null
-Gaucho|9|Grêmio|Novo Hamburgo|Porto Alegre|Rio Grande do Sul|Arena do Grêmio|24/02/2023|null
-Paulista|11|Água Santa|Botafogo SP|São Paulo|São Paulo|Estádio Distrital do Jardim Inamar|25/02/2023|13:00
-Paulista|11|Bragantino|Ituano|Bragança Paulista|São Paulo|Estádio Nabi Abi Chedid|25/02/2023|14:00
-Paulista|11|Inter de Limeira|Guarani|Sorocaba|São Paulo|Estádio Municipal Walter Ribeiro|25/02/2023|14:00
-Mineiro|7|Democrata SL|Athletic Club|Sete Lagoas|Minas Gerais|Arena do Jacaré|25/02/2023|14:00
-Gaucho|9|Aimoré|Internacional|São Leopoldo|Rio Grande do Sul|Estádio João Corrêa da Silveira|25/02/2023|14:30
-Mineiro|7|Atlético Mineiro|América Mineiro|Belo Horizonte|Minas Gerais|Estádio Governador Magalhães Pinto|25/02/2023|14:30
-Mineiro|7|CA Patrocinense|Democrata GV|Patrocínio|Minas Gerais|Estádio Pedro Alves do Nascimento|25/02/2023|16:00
-Paulista|11|São Paulo|São Bernardo FC|São Paulo|São Paulo|Estádio Cícero Pompeu de Toledo|25/02/2023|16:30
-Paulista|11|Santos|Corinthians|Santos|São Paulo|Estádio Urbano Caldeira|26/02/2023|14:00
-Mineiro|7|Betim EC|Pouso Alegre|Ipatinga|Minas Gerais|Estádio João Lamego Neto|26/02/2023|14:00
-Paulista|11|Palmeiras|Ferroviária|São Paulo|São Paulo|Allianz Parque|26/02/2023|16:30
-Paulista|11|Portuguesa|San Bento|São Paulo|São Paulo|Estádio Dr. Oswaldo Teixeira Duarte|26/02/2023|18:40
-Paulista|11|Santo André|Mirassol|Santo André|São Paulo|Estádio Bruno José Daniel|27/02/2023|null
-Gaucho|9|Caxias|Juventude|Caxias do Sul|Rio Grande do Sul|Estádio Francisco Stédile|27/02/2023|null
-Gaucho|9|São José RS|São Luiz|Porto Alegre|Rio Grande do Sul|Estádio Francisco Novelletto Neto|27/02/2023|17:00
-Mineiro|7|Tombense|Villa Nova|Muriaé|Minas Gerais|Estádio Soares de Azevedo|27/02/2023|17:00
-Gaucho|9|Esportivo|Ypiranga Erechim|Bento Gonçalves|Rio Grande do Sul|Estádio Parque Esportivo Montanha dos Vinhedos|28/02/2023|null
-Mineiro|2|Betim EC|CA Patrocinense|Ipatinga|Minas Gerais|Estádio João Lamego Neto|01/03/2023|null
-Gaucho|10|Caxias|Ypiranga Erechim|Caxias do Sul|Rio Grande do Sul|Estádio Francisco Stédile|04/03/2023|14:30
-Mineiro|8|Athletic Club|Betim EC|São João Del Rei|Minas Gerais|Estádio Joaquim Portugal|04/03/2023|14:30
-Mineiro|8|Pouso Alegre|Caldense|Pouso Alegre|Minas Gerais|Estádio Municipal Irmão Gino Maria Rossi|04/03/2023|14:30
-Mineiro|8|Villa Nova|CA Patrocinense|Nova Lima|Minas Gerais|Estádio Municipal Castor de Cifuentes|04/03/2023|14:30
-Mineiro|8|América Mineiro|Tombense|Belo Horizonte|Minas Gerais|Estádio Raimundo Sampaio|04/03/2023|14:30
-Mineiro|8|Cruzeiro|Democrata SL|Cariacica|Espírito Santo|Estádio Kleber José de Andrade|04/03/2023|14:30
-Mineiro|8|Democrata GV|Atlético Mineiro|Governador Valadares|Minas Gerais|Estádio José Mammoud Abbas|04/03/2023|14:30
-Paulista|12|Corinthians|Santo André|São Paulo|São Paulo|Neo Química Arena|04/03/2023|16:30
-Gaucho|10|Esportivo|Juventude|Bento Gonçalves|Rio Grande do Sul|Estádio Parque Esportivo Montanha dos Vinhedos|04/03/2023|17:00
-Gaucho|10|São José RS|Avenida|Porto Alegre|Rio Grande do Sul|Estádio Francisco Novelletto Neto|04/03/2023|17:00
-Gaucho|10|Brasil de Pelotas|São Luiz|Pelotas|Rio Grande do Sul|Estádio Bento da Silva Freitas|04/03/2023|19:00
-Gaucho|10|Grêmio|Internacional|Porto Alegre|Rio Grande do Sul|Arena do Grêmio|05/03/2023|null
-Paulista|12|São Bernardo FC|Água Santa|São Bernardo do Campo|São Paulo|Estádio Primeiro de Maio|05/03/2023|14:00
-Paulista|12|San Bento|Bragantino|Sorocaba|São Paulo|Estádio Municipal Walter Ribeiro|05/03/2023|14:00
-Paulista|12|Mirassol|Portuguesa|Mirassol|São Paulo|Estádio José Maria de Campos Maia|05/03/2023|14:00
-Paulista|12|Ituano|Santos|Itu|São Paulo|Estádio Municipal Dr. Novelli Júnior|05/03/2023|14:00
-Paulista|12|Guarani|Palmeiras|Campinas|São Paulo|Estádio Brinco de Ouro da Princesa|05/03/2023|14:00
-Paulista|12|Ferroviária|Inter de Limeira|Araraquara|São Paulo|Estádio Doutor Adhemar de Barros|05/03/2023|14:00
-Paulista|12|Botafogo SP|São Paulo|Ribeirão Preto|São Paulo|Estádio Santa Cruz|05/03/2023|14:00
-Gaucho|10|Aimoré|Novo Hamburgo|São Leopoldo|Rio Grande do Sul|Estádio João Corrêa da Silveira|05/03/2023|14:00
-Paulista|TAÇA INDEPENDÊNCIA - QUARTER-FINALS|Guarani|Portuguesa|Campinas|São Paulo|Estádio Brinco de Ouro da Princesa|10/03/2023|null
-Paulista|TAÇA INDEPENDÊNCIA - QUARTER-FINALS|Santo André|Inter de Limeira|Santo André|São Paulo|Estádio Bruno José Daniel|11/03/2023|14:00
-Gaucho|11|Avenida|Caxias|Santa Cruz do Sul|Rio Grande do Sul|Estádio dos Eucaliptos|11/03/2023|14:30
-Gaucho|11|Juventude|Brasil de Pelotas|Caxias do Sul|Rio Grande do Sul|Estádio Alfredo Jaconi|11/03/2023|14:30
-Gaucho|11|Novo Hamburgo|São José RS|Novo Hamburgo|Rio Grande do Sul|Estádio do Vale|11/03/2023|14:30
-Gaucho|11|São Luiz|Aimoré|Ijuí|Rio Grande do Sul|Estádio 19 de Outubro|11/03/2023|14:30
-Gaucho|11|Internacional|Esportivo|Porto Alegre|Rio Grande do Sul|Estádio José Pinheiro Borda|11/03/2023|14:30
-Gaucho|11|Ypiranga Erechim|Grêmio|Erechim|Rio Grande do Sul|Estádio Olímpico Colosso da Lagoa|11/03/2023|14:30
-Mineiro|CAMPEONATO - SEMIFINALES|Cruzeiro|América Mineiro|Sete Lagoas|Minas Gerais|Arena do Jacaré|11/03/2023|14:30
-Mineiro|TROFÉU INCONFIDÊNCIA - SEMI-FINALS|Pouso Alegre|Tombense|Pouso Alegre|Minas Gerais|Estádio Municipal Irmão Gino Maria Rossi|11/03/2023|16:00
-Paulista|CUARTOS DE FINAL|Palmeiras|São Bernardo FC|São Paulo|São Paulo|Allianz Parque|11/03/2023|17:00
-Paulista|CUARTOS DE FINAL|Corinthians|Ituano|São Paulo|São Paulo|Neo Química Arena|12/03/2023|14:00
-Mineiro|CAMPEONATO - SEMIFINALES|Athletic Club|Atlético Mineiro|São João Del Rei|Minas Gerais|Estádio Joaquim Portugal|12/03/2023|14:00
-Paulista|CUARTOS DE FINAL|Bragantino|Botafogo SP|Bragança Paulista|São Paulo|Estádio Nabi Abi Chedid|12/03/2023|17:30
-Paulista|CUARTOS DE FINAL|São Paulo|Água Santa|São Paulo|São Paulo|Allianz Parque|13/03/2023|null
-Mineiro|TROFÉU INCONFIDÊNCIA - SEMI-FINALS|Democrata GV|Villa Nova|Governador Valadares|Minas Gerais|Estádio José Mammoud Abbas|13/03/2023|18:30
-Paulista|TAÇA INDEPENDÊNCIA - SEMI-FINALS|São Bernardo FC|Inter de Limeira|São Bernardo do Campo|São Paulo|Estádio Primeiro de Maio|16/03/2023|17:00
-Paulista|TAÇA INDEPENDÊNCIA - SEMI-FINALS|Mirassol|Guarani|Mirassol|São Paulo|Estádio José Maria de Campos Maia|17/03/2023|null
-Gaucho|SEMIFINALES|Caxias|Internacional|Caxias do Sul|Rio Grande do Sul|Estádio Francisco Stédile|18/03/2023|14:30
-Mineiro|CAMPEONATO - SEMIFINALES|Atlético Mineiro|Athletic Club|Belo Horizonte|Minas Gerais|Estádio Raimundo Sampaio|18/03/2023|14:30
-Mineiro|TROFÉU INCONFIDÊNCIA - SEMI-FINALS|Tombense|Pouso Alegre|Muriaé|Minas Gerais|Estádio Soares de Azevedo|18/03/2023|16:00
-Paulista|SEMIFINALES|Palmeiras|Ituano|São Paulo|São Paulo|Allianz Parque|19/03/2023|14:00
-Gaucho|SEMIFINALES|Ypiranga Erechim|Grêmio|Erechim|Rio Grande do Sul|Estádio Olímpico Colosso da Lagoa|19/03/2023|14:00
-Mineiro|TROFÉU INCONFIDÊNCIA - SEMI-FINALS|Villa Nova|Democrata GV|Nova Lima|Minas Gerais|Estádio Municipal Castor de Cifuentes|19/03/2023|14:00
-Mineiro|CAMPEONATO - SEMIFINALES|América Mineiro|Cruzeiro|Belo Horizonte|Minas Gerais|Estádio Raimundo Sampaio|19/03/2023|16:00
-Paulista|SEMIFINALES|Água Santa|Bragantino|Santos|São Paulo|Estádio Urbano Caldeira|20/03/2023|19:00
-Gaucho|SEMIFINALES|Grêmio|Ypiranga Erechim|Porto Alegre|Rio Grande do Sul|Arena do Grêmio|25/03/2023|14:30
-Paulista|TAÇA INDEPENDÊNCIA - FINAL|São Bernardo FC|Mirassol|São Bernardo do Campo|São Paulo|Estádio Primeiro de Maio|26/03/2023|14:00
-Mineiro|TROFÉU INCONFIDÊNCIA - FINALS|Villa Nova|Tombense|Nova Lima|Minas Gerais|Estádio Municipal Castor de Cifuentes|26/03/2023|14:00
-Gaucho|SEMIFINALES|Internacional|Caxias|Porto Alegre|Rio Grande do Sul|Estádio José Pinheiro Borda|26/03/2023|16:00
-Gaucho|FINAL|Caxias|Grêmio|Caxias do Sul|Rio Grande do Sul|Estádio Francisco Stédile|01/04/2023|14:30
-Mineiro|CAMPEONATO - FINAL|América Mineiro|Atlético Mineiro|Belo Horizonte|Minas Gerais|Estádio Raimundo Sampaio|01/04/2023|14:30
-Mineiro|TROFÉU INCONFIDÊNCIA - FINALS|Tombense|Villa Nova|Muriaé|Minas Gerais|Estádio Soares de Azevedo|01/04/2023|16:00
-Paulista|FINAL|Água Santa|Palmeiras|Barueri|São Paulo|Arena Barueri|02/04/2023|14:00
-Gaucho|FINAL|Grêmio|Caxias|Porto Alegre|Rio Grande do Sul|Arena do Grêmio|08/04/2023|14:30
-Paulista|FINAL|Palmeiras|Água Santa|São Paulo|São Paulo|Allianz Parque|09/04/2023|14:00
-Mineiro|CAMPEONATO - FINAL|Atlético Mineiro|América Mineiro|Belo Horizonte|Minas Gerais|Estádio Governador Magalhães Pinto|09/04/2023|14:30
-Paulista|1|Inter de Limeira|São Bernardo FC|Limeira|São Paulo|Estádio Major José Levy Sobrinho|14/01/2023|09:00
-Paulista|1|Portuguesa|Botafogo SP|São Paulo|São Paulo|Estádio Dr. Oswaldo Teixeira Duarte|14/01/2023|13:30
-Paulista|1|Santo André|Guarani|Santo André|São Paulo|Estádio Bruno José Daniel|14/01/2023|14:00
-Paulista|1|Palmeiras|San Bento|São Paulo|São Paulo|Allianz Parque|14/01/2023|16:30
-Paulista|1|Santos|Mirassol|Santos|São Paulo|Estádio Urbano Caldeira|14/01/2023|18:30
-Paulista|1|Água Santa|Ferroviária|São Paulo|São Paulo|Estádio Distrital do Jardim Inamar|15/01/2023|09:00
-Paulista|1|Bragantino|Corinthians|Bragança Paulista|São Paulo|Estádio Nabi Abi Chedid|15/01/2023|14:00
-Paulista|1|São Paulo|Ituano|São Paulo|São Paulo|Estádio Cícero Pompeu de Toledo|15/01/2023|16:30
-Paulista|2|San Bento|Santo André|Sorocaba|São Paulo|Estádio Municipal Walter Ribeiro|17/01/2023|13:30
-Paulista|2|Mirassol|Inter de Limeira|Mirassol|São Paulo|Estádio José Maria de Campos Maia|17/01/2023|17:30
-Paulista|2|São Bernardo FC|Bragantino|São Bernardo do Campo|São Paulo|Estádio Primeiro de Maio|18/01/2023|17:00
-Paulista|2|Corinthians|Água Santa|São Paulo|São Paulo|Neo Química Arena|18/01/2023|17:30
-Paulista|2|Ituano|Portuguesa|Itu|São Paulo|Estádio Municipal Dr. Novelli Júnior|18/01/2023|18:30
-Paulista|2|Guarani|Santos|Campinas|São Paulo|Estádio Brinco de Ouro da Princesa|18/01/2023|19:35
-Paulista|2|Ferroviária|São Paulo|Araraquara|São Paulo|Estádio Doutor Adhemar de Barros|19/01/2023|17:30
-Paulista|2|Botafogo SP|Palmeiras|Ribeirão Preto|São Paulo|Estádio Santa Cruz|19/01/2023|19:30
-Paulista|3|Água Santa|San Bento|São Paulo|São Paulo|Estádio Distrital do Jardim Inamar|21/01/2023|13:00
-Paulista|3|Portuguesa|Bragantino|São Paulo|São Paulo|Estádio Dr. Oswaldo Teixeira Duarte|21/01/2023|13:30
-Paulista|3|Guarani|Ituano|Campinas|São Paulo|Estádio Brinco de Ouro da Princesa|21/01/2023|14:00
-Paulista|3|Inter de Limeira|Corinthians|Limeira|São Paulo|Estádio Major José Levy Sobrinho|21/01/2023|16:30
-Paulista|3|Palmeiras|São Paulo|São Paulo|São Paulo|Allianz Parque|22/01/2023|14:00
-Paulista|3|São Bernardo FC|Santos|São Bernardo do Campo|São Paulo|Estádio Primeiro de Maio|22/01/2023|16:30
-Paulista|3|Ferroviária|Santo André|Araraquara|São Paulo|Estádio Doutor Adhemar de Barros|22/01/2023|18:30
-Paulista|3|Botafogo SP|Mirassol|Ribeirão Preto|São Paulo|Estádio Santa Cruz|22/01/2023|18:30
-Paulista|4|Corinthians|Guarani|São Paulo|São Paulo|Neo Química Arena|24/01/2023|null
-Paulista|4|Bragantino|Ferroviária|Bragança Paulista|São Paulo|Estádio Nabi Abi Chedid|25/01/2023|17:00
-Paulista|4|Ituano|Palmeiras|Itu|São Paulo|Estádio Municipal Dr. Novelli Júnior|25/01/2023|17:30
-Paulista|4|Santo André|Botafogo SP|Santo André|São Paulo|Estádio Bruno José Daniel|25/01/2023|18:30
-Paulista|4|Santos|Água Santa|Santos|São Paulo|Estádio Urbano Caldeira|25/01/2023|19:35
-Paulista|4|San Bento|Inter de Limeira|Sorocaba|São Paulo|Estádio Municipal Walter Ribeiro|26/01/2023|13:30
-Paulista|4|Mirassol|São Bernardo FC|Mirassol|São Paulo|Estádio José Maria de Campos Maia|26/01/2023|17:30
-Paulista|4|São Paulo|Portuguesa|São Paulo|São Paulo|Estádio Cícero Pompeu de Toledo|26/01/2023|19:30
-Paulista|5|Bragantino|Santo André|Bragança Paulista|São Paulo|Estádio Nabi Abi Chedid|28/01/2023|null
-Paulista|5|Santos|Ferroviária|São Paulo|São Paulo|Estádio Dr. Oswaldo Teixeira Duarte|28/01/2023|16:30
-Paulista|5|Botafogo SP|Guarani|Ribeirão Preto|São Paulo|Estádio Santa Cruz|28/01/2023|18:40
-Paulista|5|Água Santa|Portuguesa|São Paulo|São Paulo|Estádio Distrital do Jardim Inamar|29/01/2023|13:00
-Paulista|5|São Bernardo FC|San Bento|São Bernardo do Campo|São Paulo|Estádio Primeiro de Maio|29/01/2023|14:00
-Paulista|5|Inter de Limeira|Ituano|Limeira|São Paulo|Estádio Major José Levy Sobrinho|29/01/2023|14:00
-Paulista|5|São Paulo|Corinthians|São Paulo|São Paulo|Estádio Cícero Pompeu de Toledo|29/01/2023|16:30
-Paulista|5|Mirassol|Palmeiras|Mirassol|São Paulo|Estádio José Maria de Campos Maia|01/02/2023|19:35
-Paulista|6|San Bento|Mirassol|Sorocaba|São Paulo|Estádio Municipal Walter Ribeiro|04/02/2023|13:30
-Paulista|6|Guarani|Bragantino|Campinas|São Paulo|Estádio Brinco de Ouro da Princesa|04/02/2023|14:00
-Paulista|6|Ferroviária|São Bernardo FC|Araraquara|São Paulo|Estádio Doutor Adhemar de Barros|04/02/2023|14:00
-Paulista|6|Palmeiras|Santos|São Paulo|São Paulo|Estádio Cícero Pompeu de Toledo|04/02/2023|16:30
-Paulista|6|Ituano|Água Santa|Itu|São Paulo|Estádio Municipal Dr. Novelli Júnior|05/02/2023|09:00
-Paulista|6|Santo André|São Paulo|Santo André|São Paulo|Estádio Bruno José Daniel|05/02/2023|14:00
-Paulista|6|Corinthians|Botafogo SP|São Paulo|São Paulo|Neo Química Arena|05/02/2023|16:30
-Paulista|6|Portuguesa|Inter de Limeira|São Paulo|São Paulo|Estádio Dr. Oswaldo Teixeira Duarte|05/02/2023|18:30
-Paulista|7|Mirassol|Ferroviária|Mirassol|São Paulo|Estádio José Maria de Campos Maia|07/02/2023|17:30
-Paulista|7|Bragantino|São Paulo|Bragança Paulista|São Paulo|Estádio Nabi Abi Chedid|08/02/2023|17:30
-Paulista|7|Guarani|Portuguesa|Campinas|São Paulo|Estádio Brinco de Ouro da Princesa|08/02/2023|18:30
-Paulista|7|Botafogo SP|Ituano|Ribeirão Preto|São Paulo|Estádio Santa Cruz|08/02/2023|18:30
-Paulista|7|Santos|San Bento|Santos|São Paulo|Estádio Urbano Caldeira|08/02/2023|19:35
-Paulista|7|Santo André|Água Santa|Santo André|São Paulo|Estádio Bruno José Daniel|09/02/2023|16:00
-Paulista|7|Palmeiras|Inter de Limeira|São Paulo|São Paulo|Allianz Parque|09/02/2023|17:30
-Paulista|7|São Bernardo FC|Corinthians|São Bernardo do Campo|São Paulo|Estádio Primeiro de Maio|09/02/2023|19:30
-Paulista|8|Ferroviária|Botafogo SP|Araraquara|São Paulo|Estádio Doutor Adhemar de Barros|11/02/2023|16:30
-Paulista|8|San Bento|Guarani|Sorocaba|São Paulo|Estádio Municipal Walter Ribeiro|11/02/2023|17:00
-Paulista|8|Bragantino|Mirassol|Bragança Paulista|São Paulo|Estádio Nabi Abi Chedid|11/02/2023|18:30
-Paulista|8|Água Santa|Palmeiras|São Paulo|São Paulo|Estádio Distrital do Jardim Inamar|12/02/2023|09:00
-Paulista|8|Portuguesa|Corinthians|Brasília|Distrito Federal|Arena BRB Mané Garrincha|12/02/2023|14:00
-Paulista|8|São Paulo|Santos|São Paulo|São Paulo|Estádio Cícero Pompeu de Toledo|12/02/2023|17:00
-Paulista|8|Inter de Limeira|Santo André|Limeira|São Paulo|Estádio Major José Levy Sobrinho|12/02/2023|18:30
-Paulista|9|Botafogo SP|San Bento|Ribeirão Preto|São Paulo|Estádio Santa Cruz|14/02/2023|17:30
-Paulista|9|Água Santa|Bragantino|São Paulo|São Paulo|Estádio Distrital do Jardim Inamar|15/02/2023|13:00
-Paulista|9|Guarani|São Bernardo FC|Campinas|São Paulo|Estádio Brinco de Ouro da Princesa|15/02/2023|17:30
-Paulista|9|Portuguesa|Ferroviária|São Paulo|São Paulo|Estádio Dr. Oswaldo Teixeira Duarte|15/02/2023|18:30
-Paulista|9|São Paulo|Inter de Limeira|São Paulo|São Paulo|Estádio Cícero Pompeu de Toledo|15/02/2023|19:35
-Paulista|9|Mirassol|Ituano|Mirassol|São Paulo|Estádio José Maria de Campos Maia|16/02/2023|16:00
-Paulista|9|Santo André|Santos|Santo André|São Paulo|Estádio Bruno José Daniel|16/02/2023|17:30
-Paulista|9|Corinthians|Palmeiras|São Paulo|São Paulo|Neo Química Arena|16/02/2023|19:30
-Paulista|10|Ferroviária|Guarani|Araraquara|São Paulo|Estádio Doutor Adhemar de Barros|18/02/2023|14:00
-Paulista|10|Inter de Limeira|Água Santa|Limeira|São Paulo|Estádio Major José Levy Sobrinho|18/02/2023|14:00
-Paulista|10|São Bernardo FC|Botafogo SP|São Bernardo do Campo|São Paulo|Estádio Primeiro de Maio|19/02/2023|14:00
-Paulista|10|Santos|Portuguesa|Santos|São Paulo|Estádio Urbano Caldeira|19/02/2023|14:00
-Paulista|10|Corinthians|Mirassol|São Paulo|São Paulo|Neo Química Arena|19/02/2023|16:30
-Paulista|10|Ituano|Santo André|Itu|São Paulo|Estádio Municipal Dr. Novelli Júnior|19/02/2023|18:40
-Paulista|10|San Bento|São Paulo|Sorocaba|São Paulo|Estádio Municipal Walter Ribeiro|21/02/2023|17:30
-Paulista|8|Ituano|São Bernardo FC|Itu|São Paulo|Estádio Municipal Dr. Novelli Júnior|22/02/2023|17:30
-Paulista|10|Palmeiras|Bragantino|São Paulo|São Paulo|Allianz Parque|22/02/2023|19:35
-Paulista|11|Água Santa|Botafogo SP|São Paulo|São Paulo|Estádio Distrital do Jardim Inamar|25/02/2023|13:00
-Paulista|11|Bragantino|Ituano|Bragança Paulista|São Paulo|Estádio Nabi Abi Chedid|25/02/2023|14:00
-Paulista|11|Inter de Limeira|Guarani|Sorocaba|São Paulo|Estádio Municipal Walter Ribeiro|25/02/2023|14:00
-Paulista|11|São Paulo|São Bernardo FC|São Paulo|São Paulo|Estádio Cícero Pompeu de Toledo|25/02/2023|16:30
-Paulista|11|Santos|Corinthians|Santos|São Paulo|Estádio Urbano Caldeira|26/02/2023|14:00
-Paulista|11|Palmeiras|Ferroviária|São Paulo|São Paulo|Allianz Parque|26/02/2023|16:30
-Paulista|11|Portuguesa|San Bento|São Paulo|São Paulo|Estádio Dr. Oswaldo Teixeira Duarte|26/02/2023|18:40
-Paulista|11|Santo André|Mirassol|Santo André|São Paulo|Estádio Bruno José Daniel|27/02/2023|null
-Paulista|12|Corinthians|Santo André|São Paulo|São Paulo|Neo Química Arena|04/03/2023|16:30
-Paulista|12|São Bernardo FC|Água Santa|São Bernardo do Campo|São Paulo|Estádio Primeiro de Maio|05/03/2023|14:00
-Paulista|12|San Bento|Bragantino|Sorocaba|São Paulo|Estádio Municipal Walter Ribeiro|05/03/2023|14:00
-Paulista|12|Mirassol|Portuguesa|Mirassol|São Paulo|Estádio José Maria de Campos Maia|05/03/2023|14:00
-Paulista|12|Ituano|Santos|Itu|São Paulo|Estádio Municipal Dr. Novelli Júnior|05/03/2023|14:00
-Paulista|12|Guarani|Palmeiras|Campinas|São Paulo|Estádio Brinco de Ouro da Princesa|05/03/2023|14:00
-Paulista|12|Ferroviária|Inter de Limeira|Araraquara|São Paulo|Estádio Doutor Adhemar de Barros|05/03/2023|14:00
-Paulista|12|Botafogo SP|São Paulo|Ribeirão Preto|São Paulo|Estádio Santa Cruz|05/03/2023|14:00
-Paulista|TAÇA INDEPENDÊNCIA - QUARTER-FINALS|Guarani|Portuguesa|Campinas|São Paulo|Estádio Brinco de Ouro da Princesa|10/03/2023|null
-Paulista|TAÇA INDEPENDÊNCIA - QUARTER-FINALS|Santo André|Inter de Limeira|Santo André|São Paulo|Estádio Bruno José Daniel|11/03/2023|14:00
-Paulista|CUARTOS DE FINAL|Palmeiras|São Bernardo FC|São Paulo|São Paulo|Allianz Parque|11/03/2023|17:00
-Paulista|CUARTOS DE FINAL|Corinthians|Ituano|São Paulo|São Paulo|Neo Química Arena|12/03/2023|14:00
-Paulista|CUARTOS DE FINAL|Bragantino|Botafogo SP|Bragança Paulista|São Paulo|Estádio Nabi Abi Chedid|12/03/2023|17:30
-Paulista|CUARTOS DE FINAL|São Paulo|Água Santa|São Paulo|São Paulo|Allianz Parque|13/03/2023|null
-Paulista|TAÇA INDEPENDÊNCIA - SEMI-FINALS|São Bernardo FC|Inter de Limeira|São Bernardo do Campo|São Paulo|Estádio Primeiro de Maio|16/03/2023|17:00
-Paulista|TAÇA INDEPENDÊNCIA - SEMI-FINALS|Mirassol|Guarani|Mirassol|São Paulo|Estádio José Maria de Campos Maia|17/03/2023|null
-Paulista|SEMIFINALES|Palmeiras|Ituano|São Paulo|São Paulo|Allianz Parque|19/03/2023|14:00
-Paulista|SEMIFINALES|Água Santa|Bragantino|Santos|São Paulo|Estádio Urbano Caldeira|20/03/2023|19:00
-Paulista|TAÇA INDEPENDÊNCIA - FINAL|São Bernardo FC|Mirassol|São Bernardo do Campo|São Paulo|Estádio Primeiro de Maio|26/03/2023|14:00
-Paulista|FINAL|Água Santa|Palmeiras|Barueri|São Paulo|Arena Barueri|02/04/2023|14:00
-Paulista|FINAL|Palmeiras|Água Santa|São Paulo|São Paulo|Allianz Parque|09/04/2023|14:00
-Gaucho|1|Caxias|Grêmio|Caxias do Sul|Rio Grande do Sul|Estádio Francisco Stédile|21/01/2023|14:30
-Gaucho|1|São Luiz|Ypiranga Erechim|Ijuí|Rio Grande do Sul|Estádio 19 de Outubro|21/01/2023|17:00
-Gaucho|1|Internacional|Juventude|Porto Alegre|Rio Grande do Sul|Estádio José Pinheiro Borda|21/01/2023|17:00
-Gaucho|1|Brasil de Pelotas|Aimoré|Pelotas|Rio Grande do Sul|Estádio Bento da Silva Freitas|22/01/2023|14:00
-Gaucho|1|Novo Hamburgo|Avenida|Novo Hamburgo|Rio Grande do Sul|Estádio do Vale|22/01/2023|14:00
-Gaucho|1|Esportivo|São José RS|Bento Gonçalves|Rio Grande do Sul|Estádio Parque Esportivo Montanha dos Vinhedos|22/01/2023|17:00
-Gaucho|2|Juventude|São Luiz|Caxias do Sul|Rio Grande do Sul|Estádio Alfredo Jaconi|24/01/2023|17:00
-Gaucho|2|Avenida|Internacional|Santa Cruz do Sul|Rio Grande do Sul|Estádio dos Eucaliptos|25/01/2023|17:00
-Gaucho|2|Grêmio|Brasil de Pelotas|Porto Alegre|Rio Grande do Sul|Arena do Grêmio|25/01/2023|19:30
-Gaucho|2|São José RS|Caxias|Porto Alegre|Rio Grande do Sul|Estádio Francisco Novelletto Neto|26/01/2023|17:00
-Gaucho|2|Ypiranga Erechim|Novo Hamburgo|Erechim|Rio Grande do Sul|Estádio Olímpico Colosso da Lagoa|26/01/2023|17:00
-Gaucho|2|Aimoré|Esportivo|São Leopoldo|Rio Grande do Sul|Estádio João Corrêa da Silveira|26/01/2023|18:30
-Gaucho|3|Internacional|São Luiz|Porto Alegre|Rio Grande do Sul|Estádio José Pinheiro Borda|28/01/2023|14:30
-Gaucho|3|Esportivo|Brasil de Pelotas|Bento Gonçalves|Rio Grande do Sul|Estádio Parque Esportivo Montanha dos Vinhedos|29/01/2023|14:00
-Gaucho|3|Avenida|Ypiranga Erechim|Santa Cruz do Sul|Rio Grande do Sul|Estádio dos Eucaliptos|29/01/2023|14:00
-Gaucho|3|Caxias|Aimoré|Caxias do Sul|Rio Grande do Sul|Estádio Francisco Stédile|29/01/2023|17:00
-Gaucho|3|São José RS|Grêmio|Porto Alegre|Rio Grande do Sul|Estádio Francisco Novelletto Neto|29/01/2023|18:30
-Gaucho|3|Novo Hamburgo|Juventude|Novo Hamburgo|Rio Grande do Sul|Estádio do Vale|30/01/2023|null
-Gaucho|4|Esportivo|Grêmio|Bento Gonçalves|Rio Grande do Sul|Estádio Parque Esportivo Montanha dos Vinhedos|01/02/2023|null
-Gaucho|4|Aimoré|São José RS|São Leopoldo|Rio Grande do Sul|Estádio João Corrêa da Silveira|01/02/2023|17:00
-Gaucho|4|Brasil de Pelotas|Caxias|Pelotas|Rio Grande do Sul|Estádio Bento da Silva Freitas|01/02/2023|19:30
-Gaucho|4|Juventude|Avenida|Caxias do Sul|Rio Grande do Sul|Estádio Alfredo Jaconi|02/02/2023|null
-Gaucho|4|Internacional|Ypiranga Erechim|Porto Alegre|Rio Grande do Sul|Estádio José Pinheiro Borda|02/02/2023|14:30
-Gaucho|4|São Luiz|Novo Hamburgo|Ijuí|Rio Grande do Sul|Estádio 19 de Outubro|02/02/2023|17:00
-Gaucho|5|Grêmio|Aimoré|Porto Alegre|Rio Grande do Sul|Arena do Grêmio|04/02/2023|14:30
-Gaucho|5|Caxias|Esportivo|Caxias do Sul|Rio Grande do Sul|Estádio Francisco Stédile|05/02/2023|14:00
-Gaucho|5|Ypiranga Erechim|Juventude|Erechim|Rio Grande do Sul|Estádio Olímpico Colosso da Lagoa|05/02/2023|16:30
-Gaucho|5|São José RS|Brasil de Pelotas|Porto Alegre|Rio Grande do Sul|Estádio Francisco Novelletto Neto|05/02/2023|17:00
-Gaucho|5|Avenida|São Luiz|Santa Cruz do Sul|Rio Grande do Sul|Estádio dos Eucaliptos|05/02/2023|17:00
-Gaucho|5|Novo Hamburgo|Internacional|Novo Hamburgo|Rio Grande do Sul|Estádio do Vale|05/02/2023|18:30
-Gaucho|6|São Luiz|Esportivo|Ijuí|Rio Grande do Sul|Estádio 19 de Outubro|08/02/2023|null
-Gaucho|6|Novo Hamburgo|Brasil de Pelotas|Novo Hamburgo|Rio Grande do Sul|Estádio do Vale|08/02/2023|17:00
-Gaucho|6|Internacional|Caxias|Porto Alegre|Rio Grande do Sul|Estádio José Pinheiro Borda|08/02/2023|19:30
-Gaucho|6|Avenida|Aimoré|Santa Cruz do Sul|Rio Grande do Sul|Estádio dos Eucaliptos|09/02/2023|17:00
-Gaucho|6|Ypiranga Erechim|São José RS|Erechim|Rio Grande do Sul|Estádio Olímpico Colosso da Lagoa|09/02/2023|17:00
-Gaucho|6|Juventude|Grêmio|Caxias do Sul|Rio Grande do Sul|Estádio Alfredo Jaconi|09/02/2023|17:30
-Gaucho|7|Esportivo|Novo Hamburgo|Bento Gonçalves|Rio Grande do Sul|Estádio Parque Esportivo Montanha dos Vinhedos|11/02/2023|17:00
-Gaucho|7|Brasil de Pelotas|Internacional|Pelotas|Rio Grande do Sul|Estádio Bento da Silva Freitas|11/02/2023|18:30
-Gaucho|7|Caxias|São Luiz|Caxias do Sul|Rio Grande do Sul|Estádio Francisco Stédile|12/02/2023|14:00
-Gaucho|7|Grêmio|Avenida|Porto Alegre|Rio Grande do Sul|Arena do Grêmio|12/02/2023|14:00
-Gaucho|7|Aimoré|Ypiranga Erechim|São Leopoldo|Rio Grande do Sul|Estádio João Corrêa da Silveira|12/02/2023|17:00
-Gaucho|7|São José RS|Juventude|Porto Alegre|Rio Grande do Sul|Estádio Francisco Novelletto Neto|13/02/2023|null
-Gaucho|8|Novo Hamburgo|Caxias|Novo Hamburgo|Rio Grande do Sul|Estádio do Vale|16/02/2023|19:00
-Gaucho|8|Juventude|Aimoré|Caxias do Sul|Rio Grande do Sul|Estádio Alfredo Jaconi|16/02/2023|19:30
-Gaucho|8|Internacional|São José RS|Porto Alegre|Rio Grande do Sul|Estádio José Pinheiro Borda|16/02/2023|19:30
-Gaucho|8|São Luiz|Grêmio|Ijuí|Rio Grande do Sul|Estádio 19 de Outubro|18/02/2023|14:30
-Gaucho|8|Avenida|Esportivo|Santa Cruz do Sul|Rio Grande do Sul|Estádio dos Eucaliptos|18/02/2023|17:00
-Gaucho|8|Ypiranga Erechim|Brasil de Pelotas|Erechim|Rio Grande do Sul|Estádio Olímpico Colosso da Lagoa|18/02/2023|17:00
-Gaucho|9|Brasil de Pelotas|Avenida|Pelotas|Rio Grande do Sul|Estádio Bento da Silva Freitas|24/02/2023|null
-Gaucho|9|Grêmio|Novo Hamburgo|Porto Alegre|Rio Grande do Sul|Arena do Grêmio|24/02/2023|null
-Gaucho|9|Aimoré|Internacional|São Leopoldo|Rio Grande do Sul|Estádio João Corrêa da Silveira|25/02/2023|14:30
-Gaucho|9|Caxias|Juventude|Caxias do Sul|Rio Grande do Sul|Estádio Francisco Stédile|27/02/2023|null
-Gaucho|9|São José RS|São Luiz|Porto Alegre|Rio Grande do Sul|Estádio Francisco Novelletto Neto|27/02/2023|17:00
-Gaucho|9|Esportivo|Ypiranga Erechim|Bento Gonçalves|Rio Grande do Sul|Estádio Parque Esportivo Montanha dos Vinhedos|28/02/2023|null
-Gaucho|10|Caxias|Ypiranga Erechim|Caxias do Sul|Rio Grande do Sul|Estádio Francisco Stédile|04/03/2023|14:30
-Gaucho|10|Esportivo|Juventude|Bento Gonçalves|Rio Grande do Sul|Estádio Parque Esportivo Montanha dos Vinhedos|04/03/2023|17:00
-Gaucho|10|São José RS|Avenida|Porto Alegre|Rio Grande do Sul|Estádio Francisco Novelletto Neto|04/03/2023|17:00
-Gaucho|10|Brasil de Pelotas|São Luiz|Pelotas|Rio Grande do Sul|Estádio Bento da Silva Freitas|04/03/2023|19:00
-Gaucho|10|Grêmio|Internacional|Porto Alegre|Rio Grande do Sul|Arena do Grêmio|05/03/2023|null
-Gaucho|10|Aimoré|Novo Hamburgo|São Leopoldo|Rio Grande do Sul|Estádio João Corrêa da Silveira|05/03/2023|14:00
-Gaucho|11|Avenida|Caxias|Santa Cruz do Sul|Rio Grande do Sul|Estádio dos Eucaliptos|11/03/2023|14:30
-Gaucho|11|Juventude|Brasil de Pelotas|Caxias do Sul|Rio Grande do Sul|Estádio Alfredo Jaconi|11/03/2023|14:30
-Gaucho|11|Novo Hamburgo|São José RS|Novo Hamburgo|Rio Grande do Sul|Estádio do Vale|11/03/2023|14:30
-Gaucho|11|São Luiz|Aimoré|Ijuí|Rio Grande do Sul|Estádio 19 de Outubro|11/03/2023|14:30
-Gaucho|11|Internacional|Esportivo|Porto Alegre|Rio Grande do Sul|Estádio José Pinheiro Borda|11/03/2023|14:30
-Gaucho|11|Ypiranga Erechim|Grêmio|Erechim|Rio Grande do Sul|Estádio Olímpico Colosso da Lagoa|11/03/2023|14:30
-Gaucho|SEMIFINALES|Caxias|Internacional|Caxias do Sul|Rio Grande do Sul|Estádio Francisco Stédile|18/03/2023|14:30
-Gaucho|SEMIFINALES|Ypiranga Erechim|Grêmio|Erechim|Rio Grande do Sul|Estádio Olímpico Colosso da Lagoa|19/03/2023|14:00
-Gaucho|SEMIFINALES|Grêmio|Ypiranga Erechim|Porto Alegre|Rio Grande do Sul|Arena do Grêmio|25/03/2023|14:30
-Gaucho|SEMIFINALES|Internacional|Caxias|Porto Alegre|Rio Grande do Sul|Estádio José Pinheiro Borda|26/03/2023|16:00
-Gaucho|FINAL|Caxias|Grêmio|Caxias do Sul|Rio Grande do Sul|Estádio Francisco Stédile|01/04/2023|14:30
-Gaucho|FINAL|Grêmio|Caxias|Porto Alegre|Rio Grande do Sul|Arena do Grêmio|08/04/2023|14:30
-Mineiro|1|Athletic Club|Tombense|São João Del Rei|Minas Gerais|Estádio Joaquim Portugal|21/01/2023|13:00
-Mineiro|1|Atlético Mineiro|Caldense|Belo Horizonte|Minas Gerais|Estádio Raimundo Sampaio|21/01/2023|14:30
-Mineiro|1|CA Patrocinense|Cruzeiro|Patrocínio|Minas Gerais|Estádio Pedro Alves do Nascimento|21/01/2023|17:00
-Mineiro|1|Pouso Alegre|América Mineiro|Pouso Alegre|Minas Gerais|Estádio Municipal Irmão Gino Maria Rossi|22/01/2023|16:30
-Mineiro|1|Democrata GV|Democrata SL|Governador Valadares|Minas Gerais|Estádio José Mammoud Abbas|23/01/2023|18:30
-Mineiro|2|Cruzeiro|Athletic Club|Belo Horizonte|Minas Gerais|Estádio Raimundo Sampaio|28/01/2023|08:30
-Mineiro|2|Democrata SL|Pouso Alegre|Sete Lagoas|Minas Gerais|Arena do Jacaré|28/01/2023|14:00
-Mineiro|2|Caldense|Democrata GV|Poços de Caldas|Minas Gerais|Estádio Dr. Ronaldo Junqueira|28/01/2023|14:00
-Mineiro|2|Tombense|Atlético Mineiro|Muriaé|Minas Gerais|Estádio Soares de Azevedo|29/01/2023|09:00
-Mineiro|2|América Mineiro|Villa Nova|Belo Horizonte|Minas Gerais|Estádio Raimundo Sampaio|29/01/2023|16:30
-Mineiro|3|Democrata GV|Athletic Club|Governador Valadares|Minas Gerais|Estádio José Mammoud Abbas|03/02/2023|18:30
-Mineiro|3|Democrata SL|Villa Nova|Sete Lagoas|Minas Gerais|Arena do Jacaré|04/02/2023|14:00
-Mineiro|3|América Mineiro|Cruzeiro|Brasília|Distrito Federal|Arena BRB Mané Garrincha|04/02/2023|14:30
-Mineiro|3|Pouso Alegre|CA Patrocinense|Pouso Alegre|Minas Gerais|Estádio Municipal Irmão Gino Maria Rossi|04/02/2023|15:00
-Mineiro|3|Tombense|Caldense|Muriaé|Minas Gerais|Estádio Soares de Azevedo|04/02/2023|17:00
-Mineiro|3|Betim EC|Atlético Mineiro|Ipatinga|Minas Gerais|Estádio João Lamego Neto|04/02/2023|17:00
-Mineiro|4|Athletic Club|América Mineiro|São João Del Rei|Minas Gerais|Estádio Joaquim Portugal|07/02/2023|null
-Mineiro|4|Cruzeiro|Pouso Alegre|Belo Horizonte|Minas Gerais|Estádio Raimundo Sampaio|07/02/2023|19:30
-Mineiro|4|CA Patrocinense|Tombense|Patrocínio|Minas Gerais|Estádio Pedro Alves do Nascimento|08/02/2023|null
-Mineiro|4|Caldense|Betim EC|Poços de Caldas|Minas Gerais|Estádio Dr. Ronaldo Junqueira|08/02/2023|null
-Mineiro|4|Atlético Mineiro|Democrata SL|Belo Horizonte|Minas Gerais|Estádio Raimundo Sampaio|08/02/2023|17:15
-Mineiro|4|Villa Nova|Democrata GV|Nova Lima|Minas Gerais|Estádio Municipal Castor de Cifuentes|08/02/2023|18:30
-Mineiro|5|Caldense|Villa Nova|Poços de Caldas|Minas Gerais|Estádio Dr. Ronaldo Junqueira|11/02/2023|14:00
-Mineiro|5|América Mineiro|Democrata GV|Belo Horizonte|Minas Gerais|Estádio Raimundo Sampaio|11/02/2023|16:00
-Mineiro|5|CA Patrocinense|Athletic Club|Patrocínio|Minas Gerais|Estádio Pedro Alves do Nascimento|12/02/2023|09:00
-Mineiro|5|Democrata SL|Betim EC|Sete Lagoas|Minas Gerais|Arena do Jacaré|12/02/2023|14:00
-Mineiro|5|Pouso Alegre|Tombense|Pouso Alegre|Minas Gerais|Estádio Municipal Irmão Gino Maria Rossi|12/02/2023|15:00
-Mineiro|5|Cruzeiro|Atlético Mineiro|Belo Horizonte|Minas Gerais|Estádio Raimundo Sampaio|13/02/2023|null
-Mineiro|6|Athletic Club|Caldense|São João Del Rei|Minas Gerais|Estádio Joaquim Portugal|17/02/2023|17:30
-Mineiro|6|Betim EC|América Mineiro|Ipatinga|Minas Gerais|Estádio João Lamego Neto|17/02/2023|19:30
-Mineiro|6|Atlético Mineiro|CA Patrocinense|Belo Horizonte|Minas Gerais|Estádio Raimundo Sampaio|18/02/2023|14:30
-Mineiro|6|Tombense|Democrata SL|Muriaé|Minas Gerais|Estádio Soares de Azevedo|18/02/2023|15:00
-Mineiro|6|Villa Nova|Cruzeiro|Nova Lima|Minas Gerais|Estádio Municipal Castor de Cifuentes|18/02/2023|17:00
-Mineiro|6|Democrata GV|Pouso Alegre|Governador Valadares|Minas Gerais|Estádio José Mammoud Abbas|20/02/2023|18:30
-Mineiro|1|Villa Nova|Betim EC|Nova Lima|Minas Gerais|Estádio Municipal Castor de Cifuentes|22/02/2023|18:30
-Mineiro|7|Caldense|Cruzeiro|Poços de Caldas|Minas Gerais|Estádio Dr. Ronaldo Junqueira|23/02/2023|14:30
-Mineiro|7|Democrata SL|Athletic Club|Sete Lagoas|Minas Gerais|Arena do Jacaré|25/02/2023|14:00
-Mineiro|7|Atlético Mineiro|América Mineiro|Belo Horizonte|Minas Gerais|Estádio Governador Magalhães Pinto|25/02/2023|14:30
-Mineiro|7|CA Patrocinense|Democrata GV|Patrocínio|Minas Gerais|Estádio Pedro Alves do Nascimento|25/02/2023|16:00
-Mineiro|7|Betim EC|Pouso Alegre|Ipatinga|Minas Gerais|Estádio João Lamego Neto|26/02/2023|14:00
-Mineiro|7|Tombense|Villa Nova|Muriaé|Minas Gerais|Estádio Soares de Azevedo|27/02/2023|17:00
-Mineiro|2|Betim EC|CA Patrocinense|Ipatinga|Minas Gerais|Estádio João Lamego Neto|01/03/2023|null
-Mineiro|8|Athletic Club|Betim EC|São João Del Rei|Minas Gerais|Estádio Joaquim Portugal|04/03/2023|14:30
-Mineiro|8|Pouso Alegre|Caldense|Pouso Alegre|Minas Gerais|Estádio Municipal Irmão Gino Maria Rossi|04/03/2023|14:30
-Mineiro|8|Villa Nova|CA Patrocinense|Nova Lima|Minas Gerais|Estádio Municipal Castor de Cifuentes|04/03/2023|14:30
-Mineiro|8|América Mineiro|Tombense|Belo Horizonte|Minas Gerais|Estádio Raimundo Sampaio|04/03/2023|14:30
-Mineiro|8|Cruzeiro|Democrata SL|Cariacica|Espírito Santo|Estádio Kleber José de Andrade|04/03/2023|14:30
-Mineiro|8|Democrata GV|Atlético Mineiro|Governador Valadares|Minas Gerais|Estádio José Mammoud Abbas|04/03/2023|14:30
-Mineiro|CAMPEONATO - SEMIFINALES|Cruzeiro|América Mineiro|Sete Lagoas|Minas Gerais|Arena do Jacaré|11/03/2023|14:30
-Mineiro|TROFÉU INCONFIDÊNCIA - SEMI-FINALS|Pouso Alegre|Tombense|Pouso Alegre|Minas Gerais|Estádio Municipal Irmão Gino Maria Rossi|11/03/2023|16:00
-Mineiro|CAMPEONATO - SEMIFINALES|Athletic Club|Atlético Mineiro|São João Del Rei|Minas Gerais|Estádio Joaquim Portugal|12/03/2023|14:00
-Mineiro|TROFÉU INCONFIDÊNCIA - SEMI-FINALS|Democrata GV|Villa Nova|Governador Valadares|Minas Gerais|Estádio José Mammoud Abbas|13/03/2023|18:30
-Mineiro|CAMPEONATO - SEMIFINALES|Atlético Mineiro|Athletic Club|Belo Horizonte|Minas Gerais|Estádio Raimundo Sampaio|18/03/2023|14:30
-Mineiro|TROFÉU INCONFIDÊNCIA - SEMI-FINALS|Tombense|Pouso Alegre|Muriaé|Minas Gerais|Estádio Soares de Azevedo|18/03/2023|16:00
-Mineiro|TROFÉU INCONFIDÊNCIA - SEMI-FINALS|Villa Nova|Democrata GV|Nova Lima|Minas Gerais|Estádio Municipal Castor de Cifuentes|19/03/2023|14:00
-Mineiro|CAMPEONATO - SEMIFINALES|América Mineiro|Cruzeiro|Belo Horizonte|Minas Gerais|Estádio Raimundo Sampaio|19/03/2023|16:00
-Mineiro|TROFÉU INCONFIDÊNCIA - FINALS|Villa Nova|Tombense|Nova Lima|Minas Gerais|Estádio Municipal Castor de Cifuentes|26/03/2023|14:00
-Mineiro|CAMPEONATO - FINAL|América Mineiro|Atlético Mineiro|Belo Horizonte|Minas Gerais|Estádio Raimundo Sampaio|01/04/2023|14:30
-Mineiro|TROFÉU INCONFIDÊNCIA - FINALS|Tombense|Villa Nova|Muriaé|Minas Gerais|Estádio Soares de Azevedo|01/04/2023|16:00
-Mineiro|CAMPEONATO - FINAL|Atlético Mineiro|América Mineiro|Belo Horizonte|Minas Gerais|Estádio Governador Magalhães Pinto|09/04/2023|14:30
-Paulista|1|Inter de Limeira|São Bernardo FC|Limeira|São Paulo|Estádio Major José Levy Sobrinho|14/01/2023|09:00
-Paulista|1|Portuguesa|Botafogo SP|São Paulo|São Paulo|Estádio Dr. Oswaldo Teixeira Duarte|14/01/2023|13:30
-Paulista|1|Santo André|Guarani|Santo André|São Paulo|Estádio Bruno José Daniel|14/01/2023|14:00
-Paulista|1|Palmeiras|San Bento|São Paulo|São Paulo|Allianz Parque|14/01/2023|16:30
-Paulista|1|Santos|Mirassol|Santos|São Paulo|Estádio Urbano Caldeira|14/01/2023|18:30
-Paulista|1|Água Santa|Ferroviária|São Paulo|São Paulo|Estádio Distrital do Jardim Inamar|15/01/2023|09:00
-Paulista|1|Bragantino|Corinthians|Bragança Paulista|São Paulo|Estádio Nabi Abi Chedid|15/01/2023|14:00
-Paulista|1|São Paulo|Ituano|São Paulo|São Paulo|Estádio Cícero Pompeu de Toledo|15/01/2023|16:30
-Paulista|2|San Bento|Santo André|Sorocaba|São Paulo|Estádio Municipal Walter Ribeiro|17/01/2023|13:30
-Paulista|2|Mirassol|Inter de Limeira|Mirassol|São Paulo|Estádio José Maria de Campos Maia|17/01/2023|17:30
-Paulista|2|São Bernardo FC|Bragantino|São Bernardo do Campo|São Paulo|Estádio Primeiro de Maio|18/01/2023|17:00
-Paulista|2|Corinthians|Água Santa|São Paulo|São Paulo|Neo Química Arena|18/01/2023|17:30
-Paulista|2|Ituano|Portuguesa|Itu|São Paulo|Estádio Municipal Dr. Novelli Júnior|18/01/2023|18:30
-Paulista|2|Guarani|Santos|Campinas|São Paulo|Estádio Brinco de Ouro da Princesa|18/01/2023|19:35
-Paulista|2|Ferroviária|São Paulo|Araraquara|São Paulo|Estádio Doutor Adhemar de Barros|19/01/2023|17:30
-Paulista|2|Botafogo SP|Palmeiras|Ribeirão Preto|São Paulo|Estádio Santa Cruz|19/01/2023|19:30
-Paulista|3|Água Santa|San Bento|São Paulo|São Paulo|Estádio Distrital do Jardim Inamar|21/01/2023|13:00
-Paulista|3|Portuguesa|Bragantino|São Paulo|São Paulo|Estádio Dr. Oswaldo Teixeira Duarte|21/01/2023|13:30
-Paulista|3|Guarani|Ituano|Campinas|São Paulo|Estádio Brinco de Ouro da Princesa|21/01/2023|14:00
-Paulista|3|Inter de Limeira|Corinthians|Limeira|São Paulo|Estádio Major José Levy Sobrinho|21/01/2023|16:30
-Paulista|3|Palmeiras|São Paulo|São Paulo|São Paulo|Allianz Parque|22/01/2023|14:00
-Paulista|3|São Bernardo FC|Santos|São Bernardo do Campo|São Paulo|Estádio Primeiro de Maio|22/01/2023|16:30
-Paulista|3|Ferroviária|Santo André|Araraquara|São Paulo|Estádio Doutor Adhemar de Barros|22/01/2023|18:30
-Paulista|3|Botafogo SP|Mirassol|Ribeirão Preto|São Paulo|Estádio Santa Cruz|22/01/2023|18:30
 Paulista|4|Corinthians|Guarani|São Paulo|São Paulo|Neo Química Arena|24/01/2023|18:00
 Paulista|4|Bragantino|Ferroviária|Bragança Paulista|São Paulo|Estádio Nabi Abi Chedid|25/01/2023|17:00
+Gaucho|2|Avenida|Internacional|Santa Cruz do Sul|Rio Grande do Sul|Estádio dos Eucaliptos|25/01/2023|17:00
 Paulista|4|Ituano|Palmeiras|Itu|São Paulo|Estádio Municipal Dr. Novelli Júnior|25/01/2023|17:30
 Paulista|4|Santo André|Botafogo SP|Santo André|São Paulo|Estádio Bruno José Daniel|25/01/2023|18:30
+Gaucho|2|Grêmio|Brasil de Pelotas|Porto Alegre|Rio Grande do Sul|Arena do Grêmio|25/01/2023|19:30
 Paulista|4|Santos|Água Santa|Santos|São Paulo|Estádio Urbano Caldeira|25/01/2023|19:35
 Paulista|4|San Bento|Inter de Limeira|Sorocaba|São Paulo|Estádio Municipal Walter Ribeiro|26/01/2023|13:30
+Gaucho|2|São José RS|Caxias|Porto Alegre|Rio Grande do Sul|Estádio Francisco Novelletto Neto|26/01/2023|17:00
+Gaucho|2|Ypiranga Erechim|Novo Hamburgo|Erechim|Rio Grande do Sul|Estádio Olímpico Colosso da Lagoa|26/01/2023|17:00
 Paulista|4|Mirassol|São Bernardo FC|Mirassol|São Paulo|Estádio José Maria de Campos Maia|26/01/2023|17:30
+Gaucho|2|Aimoré|Esportivo|São Leopoldo|Rio Grande do Sul|Estádio João Corrêa da Silveira|26/01/2023|18:30
 Paulista|4|São Paulo|Portuguesa|São Paulo|São Paulo|Estádio Cícero Pompeu de Toledo|26/01/2023|19:30
+Mineiro|2|Cruzeiro|Athletic Club|Belo Horizonte|Minas Gerais|Estádio Raimundo Sampaio|28/01/2023|08:30
+Mineiro|2|Democrata SL|Pouso Alegre|Sete Lagoas|Minas Gerais|Arena do Jacaré|28/01/2023|14:00
+Mineiro|2|Caldense|Democrata GV|Poços de Caldas|Minas Gerais|Estádio Dr. Ronaldo Junqueira|28/01/2023|14:00
+Gaucho|3|Internacional|São Luiz|Porto Alegre|Rio Grande do Sul|Estádio José Pinheiro Borda|28/01/2023|14:30
 Paulista|5|Santos|Ferroviária|São Paulo|São Paulo|Estádio Dr. Oswaldo Teixeira Duarte|28/01/2023|16:30
 Paulista|5|Bragantino|Santo André|Bragança Paulista|São Paulo|Estádio Nabi Abi Chedid|28/01/2023|18:00
 Paulista|5|Botafogo SP|Guarani|Ribeirão Preto|São Paulo|Estádio Santa Cruz|28/01/2023|18:40
+Mineiro|2|Tombense|Atlético Mineiro|Muriaé|Minas Gerais|Estádio Soares de Azevedo|29/01/2023|09:00
 Paulista|5|Água Santa|Portuguesa|São Paulo|São Paulo|Estádio Distrital do Jardim Inamar|29/01/2023|13:00
 Paulista|5|São Bernardo FC|San Bento|São Bernardo do Campo|São Paulo|Estádio Primeiro de Maio|29/01/2023|14:00
 Paulista|5|Inter de Limeira|Ituano|Limeira|São Paulo|Estádio Major José Levy Sobrinho|29/01/2023|14:00
-Paulista|5|São Paulo|Corinthians|São Paulo|São Paulo|Estádio Cícero Pompeu de Toledo|29/01/2023|16:30
-Paulista|5|Mirassol|Palmeiras|Mirassol|São Paulo|Estádio José Maria de Campos Maia|01/02/2023|19:35
-Paulista|6|San Bento|Mirassol|Sorocaba|São Paulo|Estádio Municipal Walter Ribeiro|04/02/2023|13:30
-Paulista|6|Guarani|Bragantino|Campinas|São Paulo|Estádio Brinco de Ouro da Princesa|04/02/2023|14:00
-Paulista|6|Ferroviária|São Bernardo FC|Araraquara|São Paulo|Estádio Doutor Adhemar de Barros|04/02/2023|14:00
-Paulista|6|Palmeiras|Santos|São Paulo|São Paulo|Estádio Cícero Pompeu de Toledo|04/02/2023|16:30
-Paulista|6|Ituano|Água Santa|Itu|São Paulo|Estádio Municipal Dr. Novelli Júnior|05/02/2023|09:00
-Paulista|6|Santo André|São Paulo|Santo André|São Paulo|Estádio Bruno José Daniel|05/02/2023|14:00
-Paulista|6|Corinthians|Botafogo SP|São Paulo|São Paulo|Neo Química Arena|05/02/2023|16:30
-Paulista|6|Portuguesa|Inter de Limeira|São Paulo|São Paulo|Estádio Dr. Oswaldo Teixeira Duarte|05/02/2023|18:30
-Paulista|7|Mirassol|Ferroviária|Mirassol|São Paulo|Estádio José Maria de Campos Maia|07/02/2023|17:30
-Paulista|7|Bragantino|São Paulo|Bragança Paulista|São Paulo|Estádio Nabi Abi Chedid|08/02/2023|17:30
-Paulista|7|Guarani|Portuguesa|Campinas|São Paulo|Estádio Brinco de Ouro da Princesa|08/02/2023|18:30
-Paulista|7|Botafogo SP|Ituano|Ribeirão Preto|São Paulo|Estádio Santa Cruz|08/02/2023|18:30
-Paulista|7|Santos|San Bento|Santos|São Paulo|Estádio Urbano Caldeira|08/02/2023|19:35
-Paulista|7|Santo André|Água Santa|Santo André|São Paulo|Estádio Bruno José Daniel|09/02/2023|16:00
-Paulista|7|Palmeiras|Inter de Limeira|São Paulo|São Paulo|Allianz Parque|09/02/2023|17:30
-Paulista|7|São Bernardo FC|Corinthians|São Bernardo do Campo|São Paulo|Estádio Primeiro de Maio|09/02/2023|19:30
-Paulista|8|Ferroviária|Botafogo SP|Araraquara|São Paulo|Estádio Doutor Adhemar de Barros|11/02/2023|16:30
-Paulista|8|San Bento|Guarani|Sorocaba|São Paulo|Estádio Municipal Walter Ribeiro|11/02/2023|17:00
-Paulista|8|Bragantino|Mirassol|Bragança Paulista|São Paulo|Estádio Nabi Abi Chedid|11/02/2023|18:30
-Paulista|8|Água Santa|Palmeiras|São Paulo|São Paulo|Estádio Distrital do Jardim Inamar|12/02/2023|09:00
-Paulista|8|Portuguesa|Corinthians|Brasília|Distrito Federal|Arena BRB Mané Garrincha|12/02/2023|14:00
-Paulista|8|São Paulo|Santos|São Paulo|São Paulo|Estádio Cícero Pompeu de Toledo|12/02/2023|17:00
-Paulista|8|Inter de Limeira|Santo André|Limeira|São Paulo|Estádio Major José Levy Sobrinho|12/02/2023|18:30
-Paulista|9|Botafogo SP|San Bento|Ribeirão Preto|São Paulo|Estádio Santa Cruz|14/02/2023|17:30
-Paulista|9|Água Santa|Bragantino|São Paulo|São Paulo|Estádio Distrital do Jardim Inamar|15/02/2023|13:00
-Paulista|9|Guarani|São Bernardo FC|Campinas|São Paulo|Estádio Brinco de Ouro da Princesa|15/02/2023|17:30
-Paulista|9|Portuguesa|Ferroviária|São Paulo|São Paulo|Estádio Dr. Oswaldo Teixeira Duarte|15/02/2023|18:30
-Paulista|9|São Paulo|Inter de Limeira|São Paulo|São Paulo|Estádio Cícero Pompeu de Toledo|15/02/2023|19:35
-Paulista|9|Mirassol|Ituano|Mirassol|São Paulo|Estádio José Maria de Campos Maia|16/02/2023|16:00
-Paulista|9|Santo André|Santos|Santo André|São Paulo|Estádio Bruno José Daniel|16/02/2023|17:30
-Paulista|9|Corinthians|Palmeiras|São Paulo|São Paulo|Neo Química Arena|16/02/2023|19:30
-Paulista|10|Ferroviária|Guarani|Araraquara|São Paulo|Estádio Doutor Adhemar de Barros|18/02/2023|14:00
-Paulista|10|Inter de Limeira|Água Santa|Limeira|São Paulo|Estádio Major José Levy Sobrinho|18/02/2023|14:00
-Paulista|10|São Bernardo FC|Botafogo SP|São Bernardo do Campo|São Paulo|Estádio Primeiro de Maio|19/02/2023|14:00
-Paulista|10|Santos|Portuguesa|Santos|São Paulo|Estádio Urbano Caldeira|19/02/2023|14:00
-Paulista|10|Corinthians|Mirassol|São Paulo|São Paulo|Neo Química Arena|19/02/2023|16:30
-Paulista|10|Ituano|Santo André|Itu|São Paulo|Estádio Municipal Dr. Novelli Júnior|19/02/2023|18:40
-Paulista|10|San Bento|São Paulo|Sorocaba|São Paulo|Estádio Municipal Walter Ribeiro|21/02/2023|17:30
-Paulista|8|Ituano|São Bernardo FC|Itu|São Paulo|Estádio Municipal Dr. Novelli Júnior|22/02/2023|17:30
-Paulista|10|Palmeiras|Bragantino|São Paulo|São Paulo|Allianz Parque|22/02/2023|19:35
-Paulista|11|Água Santa|Botafogo SP|São Paulo|São Paulo|Estádio Distrital do Jardim Inamar|25/02/2023|13:00
-Paulista|11|Bragantino|Ituano|Bragança Paulista|São Paulo|Estádio Nabi Abi Chedid|25/02/2023|14:00
-Paulista|11|Inter de Limeira|Guarani|Sorocaba|São Paulo|Estádio Municipal Walter Ribeiro|25/02/2023|14:00
-Paulista|11|São Paulo|São Bernardo FC|São Paulo|São Paulo|Estádio Cícero Pompeu de Toledo|25/02/2023|16:30
-Paulista|11|Santos|Corinthians|Santos|São Paulo|Estádio Urbano Caldeira|26/02/2023|14:00
-Paulista|11|Palmeiras|Ferroviária|São Paulo|São Paulo|Allianz Parque|26/02/2023|16:30
-Paulista|11|Portuguesa|San Bento|São Paulo|São Paulo|Estádio Dr. Oswaldo Teixeira Duarte|26/02/2023|18:40
-Paulista|11|Santo André|Mirassol|Santo André|São Paulo|Estádio Bruno José Daniel|27/02/2023|18:00
-Paulista|12|Corinthians|Santo André|São Paulo|São Paulo|Neo Química Arena|04/03/2023|16:30
-Paulista|12|São Bernardo FC|Água Santa|São Bernardo do Campo|São Paulo|Estádio Primeiro de Maio|05/03/2023|14:00
-Paulista|12|San Bento|Bragantino|Sorocaba|São Paulo|Estádio Municipal Walter Ribeiro|05/03/2023|14:00
-Paulista|12|Mirassol|Portuguesa|Mirassol|São Paulo|Estádio José Maria de Campos Maia|05/03/2023|14:00
-Paulista|12|Ituano|Santos|Itu|São Paulo|Estádio Municipal Dr. Novelli Júnior|05/03/2023|14:00
-Paulista|12|Guarani|Palmeiras|Campinas|São Paulo|Estádio Brinco de Ouro da Princesa|05/03/2023|14:00
-Paulista|12|Ferroviária|Inter de Limeira|Araraquara|São Paulo|Estádio Doutor Adhemar de Barros|05/03/2023|14:00
-Paulista|12|Botafogo SP|São Paulo|Ribeirão Preto|São Paulo|Estádio Santa Cruz|05/03/2023|14:00
-Paulista|TAÇA INDEPENDÊNCIA - QUARTER-FINALS|Guarani|Portuguesa|Campinas|São Paulo|Estádio Brinco de Ouro da Princesa|10/03/2023|18:00
-Paulista|TAÇA INDEPENDÊNCIA - QUARTER-FINALS|Santo André|Inter de Limeira|Santo André|São Paulo|Estádio Bruno José Daniel|11/03/2023|14:00
-Paulista|CUARTOS DE FINAL|Palmeiras|São Bernardo FC|São Paulo|São Paulo|Allianz Parque|11/03/2023|17:00
-Paulista|CUARTOS DE FINAL|Corinthians|Ituano|São Paulo|São Paulo|Neo Química Arena|12/03/2023|14:00
-Paulista|CUARTOS DE FINAL|Bragantino|Botafogo SP|Bragança Paulista|São Paulo|Estádio Nabi Abi Chedid|12/03/2023|17:30
-Paulista|CUARTOS DE FINAL|São Paulo|Água Santa|São Paulo|São Paulo|Allianz Parque|13/03/2023|18:00
-Paulista|TAÇA INDEPENDÊNCIA - SEMI-FINALS|São Bernardo FC|Inter de Limeira|São Bernardo do Campo|São Paulo|Estádio Primeiro de Maio|16/03/2023|17:00
-Paulista|TAÇA INDEPENDÊNCIA - SEMI-FINALS|Mirassol|Guarani|Mirassol|São Paulo|Estádio José Maria de Campos Maia|17/03/2023|18:00
-Paulista|SEMIFINALES|Palmeiras|Ituano|São Paulo|São Paulo|Allianz Parque|19/03/2023|14:00
-Paulista|SEMIFINALES|Água Santa|Bragantino|Santos|São Paulo|Estádio Urbano Caldeira|20/03/2023|19:00
-Paulista|TAÇA INDEPENDÊNCIA - FINAL|São Bernardo FC|Mirassol|São Bernardo do Campo|São Paulo|Estádio Primeiro de Maio|26/03/2023|14:00
-Paulista|FINAL|Água Santa|Palmeiras|Barueri|São Paulo|Arena Barueri|02/04/2023|14:00
-Paulista|FINAL|Palmeiras|Água Santa|São Paulo|São Paulo|Allianz Parque|09/04/2023|14:00
-Gaucho|1|Caxias|Grêmio|Caxias do Sul|Rio Grande do Sul|Estádio Francisco Stédile|21/01/2023|14:30
-Gaucho|1|São Luiz|Ypiranga Erechim|Ijuí|Rio Grande do Sul|Estádio 19 de Outubro|21/01/2023|17:00
-Gaucho|1|Internacional|Juventude|Porto Alegre|Rio Grande do Sul|Estádio José Pinheiro Borda|21/01/2023|17:00
-Gaucho|1|Brasil de Pelotas|Aimoré|Pelotas|Rio Grande do Sul|Estádio Bento da Silva Freitas|22/01/2023|14:00
-Gaucho|1|Novo Hamburgo|Avenida|Novo Hamburgo|Rio Grande do Sul|Estádio do Vale|22/01/2023|14:00
-Gaucho|1|Esportivo|São José RS|Bento Gonçalves|Rio Grande do Sul|Estádio Parque Esportivo Montanha dos Vinhedos|22/01/2023|17:00
-Gaucho|2|Juventude|São Luiz|Caxias do Sul|Rio Grande do Sul|Estádio Alfredo Jaconi|24/01/2023|17:00
-Gaucho|2|Avenida|Internacional|Santa Cruz do Sul|Rio Grande do Sul|Estádio dos Eucaliptos|25/01/2023|17:00
-Gaucho|2|Grêmio|Brasil de Pelotas|Porto Alegre|Rio Grande do Sul|Arena do Grêmio|25/01/2023|19:30
-Gaucho|2|São José RS|Caxias|Porto Alegre|Rio Grande do Sul|Estádio Francisco Novelletto Neto|26/01/2023|17:00
-Gaucho|2|Ypiranga Erechim|Novo Hamburgo|Erechim|Rio Grande do Sul|Estádio Olímpico Colosso da Lagoa|26/01/2023|17:00
-Gaucho|2|Aimoré|Esportivo|São Leopoldo|Rio Grande do Sul|Estádio João Corrêa da Silveira|26/01/2023|18:30
-Gaucho|3|Internacional|São Luiz|Porto Alegre|Rio Grande do Sul|Estádio José Pinheiro Borda|28/01/2023|14:30
 Gaucho|3|Esportivo|Brasil de Pelotas|Bento Gonçalves|Rio Grande do Sul|Estádio Parque Esportivo Montanha dos Vinhedos|29/01/2023|14:00
 Gaucho|3|Avenida|Ypiranga Erechim|Santa Cruz do Sul|Rio Grande do Sul|Estádio dos Eucaliptos|29/01/2023|14:00
+Paulista|5|São Paulo|Corinthians|São Paulo|São Paulo|Estádio Cícero Pompeu de Toledo|29/01/2023|16:30
+Mineiro|2|América Mineiro|Villa Nova|Belo Horizonte|Minas Gerais|Estádio Raimundo Sampaio|29/01/2023|16:30
 Gaucho|3|Caxias|Aimoré|Caxias do Sul|Rio Grande do Sul|Estádio Francisco Stédile|29/01/2023|17:00
 Gaucho|3|São José RS|Grêmio|Porto Alegre|Rio Grande do Sul|Estádio Francisco Novelletto Neto|29/01/2023|18:30
 Gaucho|3|Novo Hamburgo|Juventude|Novo Hamburgo|Rio Grande do Sul|Estádio do Vale|30/01/2023|18:00
 Gaucho|4|Aimoré|São José RS|São Leopoldo|Rio Grande do Sul|Estádio João Corrêa da Silveira|01/02/2023|17:00
 Gaucho|4|Esportivo|Grêmio|Bento Gonçalves|Rio Grande do Sul|Estádio Parque Esportivo Montanha dos Vinhedos|01/02/2023|18:00
 Gaucho|4|Brasil de Pelotas|Caxias|Pelotas|Rio Grande do Sul|Estádio Bento da Silva Freitas|01/02/2023|19:30
+Paulista|5|Mirassol|Palmeiras|Mirassol|São Paulo|Estádio José Maria de Campos Maia|01/02/2023|19:35
 Gaucho|4|Internacional|Ypiranga Erechim|Porto Alegre|Rio Grande do Sul|Estádio José Pinheiro Borda|02/02/2023|14:30
 Gaucho|4|São Luiz|Novo Hamburgo|Ijuí|Rio Grande do Sul|Estádio 19 de Outubro|02/02/2023|17:00
 Gaucho|4|Juventude|Avenida|Caxias do Sul|Rio Grande do Sul|Estádio Alfredo Jaconi|02/02/2023|18:00
+Mineiro|3|Democrata GV|Athletic Club|Governador Valadares|Minas Gerais|Estádio José Mammoud Abbas|03/02/2023|18:30
+Paulista|6|San Bento|Mirassol|Sorocaba|São Paulo|Estádio Municipal Walter Ribeiro|04/02/2023|13:30
+Paulista|6|Guarani|Bragantino|Campinas|São Paulo|Estádio Brinco de Ouro da Princesa|04/02/2023|14:00
+Paulista|6|Ferroviária|São Bernardo FC|Araraquara|São Paulo|Estádio Doutor Adhemar de Barros|04/02/2023|14:00
+Mineiro|3|Democrata SL|Villa Nova|Sete Lagoas|Minas Gerais|Arena do Jacaré|04/02/2023|14:00
 Gaucho|5|Grêmio|Aimoré|Porto Alegre|Rio Grande do Sul|Arena do Grêmio|04/02/2023|14:30
+Mineiro|3|América Mineiro|Cruzeiro|Brasília|Distrito Federal|Arena BRB Mané Garrincha|04/02/2023|14:30
+Mineiro|3|Pouso Alegre|CA Patrocinense|Pouso Alegre|Minas Gerais|Estádio Municipal Irmão Gino Maria Rossi|04/02/2023|15:00
+Paulista|6|Palmeiras|Santos|São Paulo|São Paulo|Estádio Cícero Pompeu de Toledo|04/02/2023|16:30
+Mineiro|3|Tombense|Caldense|Muriaé|Minas Gerais|Estádio Soares de Azevedo|04/02/2023|17:00
+Mineiro|3|Betim EC|Atlético Mineiro|Ipatinga|Minas Gerais|Estádio João Lamego Neto|04/02/2023|17:00
+Paulista|6|Ituano|Água Santa|Itu|São Paulo|Estádio Municipal Dr. Novelli Júnior|05/02/2023|09:00
+Paulista|6|Santo André|São Paulo|Santo André|São Paulo|Estádio Bruno José Daniel|05/02/2023|14:00
 Gaucho|5|Caxias|Esportivo|Caxias do Sul|Rio Grande do Sul|Estádio Francisco Stédile|05/02/2023|14:00
+Paulista|6|Corinthians|Botafogo SP|São Paulo|São Paulo|Neo Química Arena|05/02/2023|16:30
 Gaucho|5|Ypiranga Erechim|Juventude|Erechim|Rio Grande do Sul|Estádio Olímpico Colosso da Lagoa|05/02/2023|16:30
 Gaucho|5|São José RS|Brasil de Pelotas|Porto Alegre|Rio Grande do Sul|Estádio Francisco Novelletto Neto|05/02/2023|17:00
 Gaucho|5|Avenida|São Luiz|Santa Cruz do Sul|Rio Grande do Sul|Estádio dos Eucaliptos|05/02/2023|17:00
+Paulista|6|Portuguesa|Inter de Limeira|São Paulo|São Paulo|Estádio Dr. Oswaldo Teixeira Duarte|05/02/2023|18:30
 Gaucho|5|Novo Hamburgo|Internacional|Novo Hamburgo|Rio Grande do Sul|Estádio do Vale|05/02/2023|18:30
-Gaucho|6|Novo Hamburgo|Brasil de Pelotas|Novo Hamburgo|Rio Grande do Sul|Estádio do Vale|08/02/2023|17:00
-Gaucho|6|São Luiz|Esportivo|Ijuí|Rio Grande do Sul|Estádio 19 de Outubro|08/02/2023|18:00
-Gaucho|6|Internacional|Caxias|Porto Alegre|Rio Grande do Sul|Estádio José Pinheiro Borda|08/02/2023|19:30
-Gaucho|6|Avenida|Aimoré|Santa Cruz do Sul|Rio Grande do Sul|Estádio dos Eucaliptos|09/02/2023|17:00
-Gaucho|6|Ypiranga Erechim|São José RS|Erechim|Rio Grande do Sul|Estádio Olímpico Colosso da Lagoa|09/02/2023|17:00
-Gaucho|6|Juventude|Grêmio|Caxias do Sul|Rio Grande do Sul|Estádio Alfredo Jaconi|09/02/2023|17:30
-Gaucho|7|Esportivo|Novo Hamburgo|Bento Gonçalves|Rio Grande do Sul|Estádio Parque Esportivo Montanha dos Vinhedos|11/02/2023|17:00
-Gaucho|7|Brasil de Pelotas|Internacional|Pelotas|Rio Grande do Sul|Estádio Bento da Silva Freitas|11/02/2023|18:30
-Gaucho|7|Caxias|São Luiz|Caxias do Sul|Rio Grande do Sul|Estádio Francisco Stédile|12/02/2023|14:00
-Gaucho|7|Grêmio|Avenida|Porto Alegre|Rio Grande do Sul|Arena do Grêmio|12/02/2023|14:00
-Gaucho|7|Aimoré|Ypiranga Erechim|São Leopoldo|Rio Grande do Sul|Estádio João Corrêa da Silveira|12/02/2023|17:00
-Gaucho|7|São José RS|Juventude|Porto Alegre|Rio Grande do Sul|Estádio Francisco Novelletto Neto|13/02/2023|18:00
-Gaucho|8|Novo Hamburgo|Caxias|Novo Hamburgo|Rio Grande do Sul|Estádio do Vale|16/02/2023|19:00
-Gaucho|8|Juventude|Aimoré|Caxias do Sul|Rio Grande do Sul|Estádio Alfredo Jaconi|16/02/2023|19:30
-Gaucho|8|Internacional|São José RS|Porto Alegre|Rio Grande do Sul|Estádio José Pinheiro Borda|16/02/2023|19:30
-Gaucho|8|São Luiz|Grêmio|Ijuí|Rio Grande do Sul|Estádio 19 de Outubro|18/02/2023|14:30
-Gaucho|8|Avenida|Esportivo|Santa Cruz do Sul|Rio Grande do Sul|Estádio dos Eucaliptos|18/02/2023|17:00
-Gaucho|8|Ypiranga Erechim|Brasil de Pelotas|Erechim|Rio Grande do Sul|Estádio Olímpico Colosso da Lagoa|18/02/2023|17:00
-Gaucho|9|Brasil de Pelotas|Avenida|Pelotas|Rio Grande do Sul|Estádio Bento da Silva Freitas|24/02/2023|18:00
-Gaucho|9|Grêmio|Novo Hamburgo|Porto Alegre|Rio Grande do Sul|Arena do Grêmio|24/02/2023|18:00
-Gaucho|9|Aimoré|Internacional|São Leopoldo|Rio Grande do Sul|Estádio João Corrêa da Silveira|25/02/2023|14:30
-Gaucho|9|São José RS|São Luiz|Porto Alegre|Rio Grande do Sul|Estádio Francisco Novelletto Neto|27/02/2023|17:00
-Gaucho|9|Caxias|Juventude|Caxias do Sul|Rio Grande do Sul|Estádio Francisco Stédile|27/02/2023|18:00
-Gaucho|9|Esportivo|Ypiranga Erechim|Bento Gonçalves|Rio Grande do Sul|Estádio Parque Esportivo Montanha dos Vinhedos|28/02/2023|18:00
-Gaucho|10|Caxias|Ypiranga Erechim|Caxias do Sul|Rio Grande do Sul|Estádio Francisco Stédile|04/03/2023|14:30
-Gaucho|10|Esportivo|Juventude|Bento Gonçalves|Rio Grande do Sul|Estádio Parque Esportivo Montanha dos Vinhedos|04/03/2023|17:00
-Gaucho|10|São José RS|Avenida|Porto Alegre|Rio Grande do Sul|Estádio Francisco Novelletto Neto|04/03/2023|17:00
-Gaucho|10|Brasil de Pelotas|São Luiz|Pelotas|Rio Grande do Sul|Estádio Bento da Silva Freitas|04/03/2023|19:00
-Gaucho|10|Aimoré|Novo Hamburgo|São Leopoldo|Rio Grande do Sul|Estádio João Corrêa da Silveira|05/03/2023|14:00
-Gaucho|10|Grêmio|Internacional|Porto Alegre|Rio Grande do Sul|Arena do Grêmio|05/03/2023|18:00
-Gaucho|11|Avenida|Caxias|Santa Cruz do Sul|Rio Grande do Sul|Estádio dos Eucaliptos|11/03/2023|14:30
-Gaucho|11|Juventude|Brasil de Pelotas|Caxias do Sul|Rio Grande do Sul|Estádio Alfredo Jaconi|11/03/2023|14:30
-Gaucho|11|Novo Hamburgo|São José RS|Novo Hamburgo|Rio Grande do Sul|Estádio do Vale|11/03/2023|14:30
-Gaucho|11|São Luiz|Aimoré|Ijuí|Rio Grande do Sul|Estádio 19 de Outubro|11/03/2023|14:30
-Gaucho|11|Internacional|Esportivo|Porto Alegre|Rio Grande do Sul|Estádio José Pinheiro Borda|11/03/2023|14:30
-Gaucho|11|Ypiranga Erechim|Grêmio|Erechim|Rio Grande do Sul|Estádio Olímpico Colosso da Lagoa|11/03/2023|14:30
-Gaucho|SEMIFINALES|Caxias|Internacional|Caxias do Sul|Rio Grande do Sul|Estádio Francisco Stédile|18/03/2023|14:30
-Gaucho|SEMIFINALES|Ypiranga Erechim|Grêmio|Erechim|Rio Grande do Sul|Estádio Olímpico Colosso da Lagoa|19/03/2023|14:00
-Gaucho|SEMIFINALES|Grêmio|Ypiranga Erechim|Porto Alegre|Rio Grande do Sul|Arena do Grêmio|25/03/2023|14:30
-Gaucho|SEMIFINALES|Internacional|Caxias|Porto Alegre|Rio Grande do Sul|Estádio José Pinheiro Borda|26/03/2023|16:00
-Gaucho|FINAL|Caxias|Grêmio|Caxias do Sul|Rio Grande do Sul|Estádio Francisco Stédile|01/04/2023|14:30
-Gaucho|FINAL|Grêmio|Caxias|Porto Alegre|Rio Grande do Sul|Arena do Grêmio|08/04/2023|14:30
-Mineiro|1|Athletic Club|Tombense|São João Del Rei|Minas Gerais|Estádio Joaquim Portugal|21/01/2023|13:00
-Mineiro|1|Atlético Mineiro|Caldense|Belo Horizonte|Minas Gerais|Estádio Raimundo Sampaio|21/01/2023|14:30
-Mineiro|1|CA Patrocinense|Cruzeiro|Patrocínio|Minas Gerais|Estádio Pedro Alves do Nascimento|21/01/2023|17:00
-Mineiro|1|Pouso Alegre|América Mineiro|Pouso Alegre|Minas Gerais|Estádio Municipal Irmão Gino Maria Rossi|22/01/2023|16:30
-Mineiro|1|Democrata GV|Democrata SL|Governador Valadares|Minas Gerais|Estádio José Mammoud Abbas|23/01/2023|18:30
-Mineiro|2|Cruzeiro|Athletic Club|Belo Horizonte|Minas Gerais|Estádio Raimundo Sampaio|28/01/2023|08:30
-Mineiro|2|Democrata SL|Pouso Alegre|Sete Lagoas|Minas Gerais|Arena do Jacaré|28/01/2023|14:00
-Mineiro|2|Caldense|Democrata GV|Poços de Caldas|Minas Gerais|Estádio Dr. Ronaldo Junqueira|28/01/2023|14:00
-Mineiro|2|Tombense|Atlético Mineiro|Muriaé|Minas Gerais|Estádio Soares de Azevedo|29/01/2023|09:00
-Mineiro|2|América Mineiro|Villa Nova|Belo Horizonte|Minas Gerais|Estádio Raimundo Sampaio|29/01/2023|16:30
-Mineiro|3|Democrata GV|Athletic Club|Governador Valadares|Minas Gerais|Estádio José Mammoud Abbas|03/02/2023|18:30
-Mineiro|3|Democrata SL|Villa Nova|Sete Lagoas|Minas Gerais|Arena do Jacaré|04/02/2023|14:00
-Mineiro|3|América Mineiro|Cruzeiro|Brasília|Distrito Federal|Arena BRB Mané Garrincha|04/02/2023|14:30
-Mineiro|3|Pouso Alegre|CA Patrocinense|Pouso Alegre|Minas Gerais|Estádio Municipal Irmão Gino Maria Rossi|04/02/2023|15:00
-Mineiro|3|Tombense|Caldense|Muriaé|Minas Gerais|Estádio Soares de Azevedo|04/02/2023|17:00
-Mineiro|3|Betim EC|Atlético Mineiro|Ipatinga|Minas Gerais|Estádio João Lamego Neto|04/02/2023|17:00
+Paulista|7|Mirassol|Ferroviária|Mirassol|São Paulo|Estádio José Maria de Campos Maia|07/02/2023|17:30
 Mineiro|4|Athletic Club|América Mineiro|São João Del Rei|Minas Gerais|Estádio Joaquim Portugal|07/02/2023|18:00
 Mineiro|4|Cruzeiro|Pouso Alegre|Belo Horizonte|Minas Gerais|Estádio Raimundo Sampaio|07/02/2023|19:30
+Gaucho|6|Novo Hamburgo|Brasil de Pelotas|Novo Hamburgo|Rio Grande do Sul|Estádio do Vale|08/02/2023|17:00
 Mineiro|4|Atlético Mineiro|Democrata SL|Belo Horizonte|Minas Gerais|Estádio Raimundo Sampaio|08/02/2023|17:15
+Paulista|7|Bragantino|São Paulo|Bragança Paulista|São Paulo|Estádio Nabi Abi Chedid|08/02/2023|17:30
+Gaucho|6|São Luiz|Esportivo|Ijuí|Rio Grande do Sul|Estádio 19 de Outubro|08/02/2023|18:00
 Mineiro|4|CA Patrocinense|Tombense|Patrocínio|Minas Gerais|Estádio Pedro Alves do Nascimento|08/02/2023|18:00
 Mineiro|4|Caldense|Betim EC|Poços de Caldas|Minas Gerais|Estádio Dr. Ronaldo Junqueira|08/02/2023|18:00
+Paulista|7|Guarani|Portuguesa|Campinas|São Paulo|Estádio Brinco de Ouro da Princesa|08/02/2023|18:30
+Paulista|7|Botafogo SP|Ituano|Ribeirão Preto|São Paulo|Estádio Santa Cruz|08/02/2023|18:30
 Mineiro|4|Villa Nova|Democrata GV|Nova Lima|Minas Gerais|Estádio Municipal Castor de Cifuentes|08/02/2023|18:30
+Gaucho|6|Internacional|Caxias|Porto Alegre|Rio Grande do Sul|Estádio José Pinheiro Borda|08/02/2023|19:30
+Paulista|7|Santos|San Bento|Santos|São Paulo|Estádio Urbano Caldeira|08/02/2023|19:35
+Paulista|7|Santo André|Água Santa|Santo André|São Paulo|Estádio Bruno José Daniel|09/02/2023|16:00
+Gaucho|6|Avenida|Aimoré|Santa Cruz do Sul|Rio Grande do Sul|Estádio dos Eucaliptos|09/02/2023|17:00
+Gaucho|6|Ypiranga Erechim|São José RS|Erechim|Rio Grande do Sul|Estádio Olímpico Colosso da Lagoa|09/02/2023|17:00
+Paulista|7|Palmeiras|Inter de Limeira|São Paulo|São Paulo|Allianz Parque|09/02/2023|17:30
+Gaucho|6|Juventude|Grêmio|Caxias do Sul|Rio Grande do Sul|Estádio Alfredo Jaconi|09/02/2023|17:30
+Paulista|7|São Bernardo FC|Corinthians|São Bernardo do Campo|São Paulo|Estádio Primeiro de Maio|09/02/2023|19:30
 Mineiro|5|Caldense|Villa Nova|Poços de Caldas|Minas Gerais|Estádio Dr. Ronaldo Junqueira|11/02/2023|14:00
 Mineiro|5|América Mineiro|Democrata GV|Belo Horizonte|Minas Gerais|Estádio Raimundo Sampaio|11/02/2023|16:00
+Paulista|8|Ferroviária|Botafogo SP|Araraquara|São Paulo|Estádio Doutor Adhemar de Barros|11/02/2023|16:30
+Paulista|8|San Bento|Guarani|Sorocaba|São Paulo|Estádio Municipal Walter Ribeiro|11/02/2023|17:00
+Gaucho|7|Esportivo|Novo Hamburgo|Bento Gonçalves|Rio Grande do Sul|Estádio Parque Esportivo Montanha dos Vinhedos|11/02/2023|17:00
+Paulista|8|Bragantino|Mirassol|Bragança Paulista|São Paulo|Estádio Nabi Abi Chedid|11/02/2023|18:30
+Gaucho|7|Brasil de Pelotas|Internacional|Pelotas|Rio Grande do Sul|Estádio Bento da Silva Freitas|11/02/2023|18:30
+Paulista|8|Água Santa|Palmeiras|São Paulo|São Paulo|Estádio Distrital do Jardim Inamar|12/02/2023|09:00
 Mineiro|5|CA Patrocinense|Athletic Club|Patrocínio|Minas Gerais|Estádio Pedro Alves do Nascimento|12/02/2023|09:00
+Paulista|8|Portuguesa|Corinthians|Brasília|Distrito Federal|Arena BRB Mané Garrincha|12/02/2023|14:00
+Gaucho|7|Caxias|São Luiz|Caxias do Sul|Rio Grande do Sul|Estádio Francisco Stédile|12/02/2023|14:00
+Gaucho|7|Grêmio|Avenida|Porto Alegre|Rio Grande do Sul|Arena do Grêmio|12/02/2023|14:00
 Mineiro|5|Democrata SL|Betim EC|Sete Lagoas|Minas Gerais|Arena do Jacaré|12/02/2023|14:00
 Mineiro|5|Pouso Alegre|Tombense|Pouso Alegre|Minas Gerais|Estádio Municipal Irmão Gino Maria Rossi|12/02/2023|15:00
+Paulista|8|São Paulo|Santos|São Paulo|São Paulo|Estádio Cícero Pompeu de Toledo|12/02/2023|17:00
+Gaucho|7|Aimoré|Ypiranga Erechim|São Leopoldo|Rio Grande do Sul|Estádio João Corrêa da Silveira|12/02/2023|17:00
+Paulista|8|Inter de Limeira|Santo André|Limeira|São Paulo|Estádio Major José Levy Sobrinho|12/02/2023|18:30
+Gaucho|7|São José RS|Juventude|Porto Alegre|Rio Grande do Sul|Estádio Francisco Novelletto Neto|13/02/2023|18:00
 Mineiro|5|Cruzeiro|Atlético Mineiro|Belo Horizonte|Minas Gerais|Estádio Raimundo Sampaio|13/02/2023|18:00
+Paulista|9|Botafogo SP|San Bento|Ribeirão Preto|São Paulo|Estádio Santa Cruz|14/02/2023|17:30
+Paulista|9|Água Santa|Bragantino|São Paulo|São Paulo|Estádio Distrital do Jardim Inamar|15/02/2023|13:00
+Paulista|9|Guarani|São Bernardo FC|Campinas|São Paulo|Estádio Brinco de Ouro da Princesa|15/02/2023|17:30
+Paulista|9|Portuguesa|Ferroviária|São Paulo|São Paulo|Estádio Dr. Oswaldo Teixeira Duarte|15/02/2023|18:30
+Paulista|9|São Paulo|Inter de Limeira|São Paulo|São Paulo|Estádio Cícero Pompeu de Toledo|15/02/2023|19:35
+Paulista|9|Mirassol|Ituano|Mirassol|São Paulo|Estádio José Maria de Campos Maia|16/02/2023|16:00
+Paulista|9|Santo André|Santos|Santo André|São Paulo|Estádio Bruno José Daniel|16/02/2023|17:30
+Gaucho|8|Novo Hamburgo|Caxias|Novo Hamburgo|Rio Grande do Sul|Estádio do Vale|16/02/2023|19:00
+Paulista|9|Corinthians|Palmeiras|São Paulo|São Paulo|Neo Química Arena|16/02/2023|19:30
+Gaucho|8|Juventude|Aimoré|Caxias do Sul|Rio Grande do Sul|Estádio Alfredo Jaconi|16/02/2023|19:30
+Gaucho|8|Internacional|São José RS|Porto Alegre|Rio Grande do Sul|Estádio José Pinheiro Borda|16/02/2023|19:30
 Mineiro|6|Athletic Club|Caldense|São João Del Rei|Minas Gerais|Estádio Joaquim Portugal|17/02/2023|17:30
 Mineiro|6|Betim EC|América Mineiro|Ipatinga|Minas Gerais|Estádio João Lamego Neto|17/02/2023|19:30
+Paulista|10|Ferroviária|Guarani|Araraquara|São Paulo|Estádio Doutor Adhemar de Barros|18/02/2023|14:00
+Paulista|10|Inter de Limeira|Água Santa|Limeira|São Paulo|Estádio Major José Levy Sobrinho|18/02/2023|14:00
+Gaucho|8|São Luiz|Grêmio|Ijuí|Rio Grande do Sul|Estádio 19 de Outubro|18/02/2023|14:30
 Mineiro|6|Atlético Mineiro|CA Patrocinense|Belo Horizonte|Minas Gerais|Estádio Raimundo Sampaio|18/02/2023|14:30
 Mineiro|6|Tombense|Democrata SL|Muriaé|Minas Gerais|Estádio Soares de Azevedo|18/02/2023|15:00
+Gaucho|8|Avenida|Esportivo|Santa Cruz do Sul|Rio Grande do Sul|Estádio dos Eucaliptos|18/02/2023|17:00
+Gaucho|8|Ypiranga Erechim|Brasil de Pelotas|Erechim|Rio Grande do Sul|Estádio Olímpico Colosso da Lagoa|18/02/2023|17:00
 Mineiro|6|Villa Nova|Cruzeiro|Nova Lima|Minas Gerais|Estádio Municipal Castor de Cifuentes|18/02/2023|17:00
+Paulista|10|São Bernardo FC|Botafogo SP|São Bernardo do Campo|São Paulo|Estádio Primeiro de Maio|19/02/2023|14:00
+Paulista|10|Santos|Portuguesa|Santos|São Paulo|Estádio Urbano Caldeira|19/02/2023|14:00
+Paulista|10|Corinthians|Mirassol|São Paulo|São Paulo|Neo Química Arena|19/02/2023|16:30
+Paulista|10|Ituano|Santo André|Itu|São Paulo|Estádio Municipal Dr. Novelli Júnior|19/02/2023|18:40
 Mineiro|6|Democrata GV|Pouso Alegre|Governador Valadares|Minas Gerais|Estádio José Mammoud Abbas|20/02/2023|18:30
+Paulista|10|San Bento|São Paulo|Sorocaba|São Paulo|Estádio Municipal Walter Ribeiro|21/02/2023|17:30
+Paulista|8|Ituano|São Bernardo FC|Itu|São Paulo|Estádio Municipal Dr. Novelli Júnior|22/02/2023|17:30
 Mineiro|1|Villa Nova|Betim EC|Nova Lima|Minas Gerais|Estádio Municipal Castor de Cifuentes|22/02/2023|18:30
+Paulista|10|Palmeiras|Bragantino|São Paulo|São Paulo|Allianz Parque|22/02/2023|19:35
 Mineiro|7|Caldense|Cruzeiro|Poços de Caldas|Minas Gerais|Estádio Dr. Ronaldo Junqueira|23/02/2023|14:30
+Gaucho|9|Brasil de Pelotas|Avenida|Pelotas|Rio Grande do Sul|Estádio Bento da Silva Freitas|24/02/2023|18:00
+Gaucho|9|Grêmio|Novo Hamburgo|Porto Alegre|Rio Grande do Sul|Arena do Grêmio|24/02/2023|18:00
+Paulista|11|Água Santa|Botafogo SP|São Paulo|São Paulo|Estádio Distrital do Jardim Inamar|25/02/2023|13:00
+Paulista|11|Bragantino|Ituano|Bragança Paulista|São Paulo|Estádio Nabi Abi Chedid|25/02/2023|14:00
+Paulista|11|Inter de Limeira|Guarani|Sorocaba|São Paulo|Estádio Municipal Walter Ribeiro|25/02/2023|14:00
 Mineiro|7|Democrata SL|Athletic Club|Sete Lagoas|Minas Gerais|Arena do Jacaré|25/02/2023|14:00
+Gaucho|9|Aimoré|Internacional|São Leopoldo|Rio Grande do Sul|Estádio João Corrêa da Silveira|25/02/2023|14:30
 Mineiro|7|Atlético Mineiro|América Mineiro|Belo Horizonte|Minas Gerais|Estádio Governador Magalhães Pinto|25/02/2023|14:30
 Mineiro|7|CA Patrocinense|Democrata GV|Patrocínio|Minas Gerais|Estádio Pedro Alves do Nascimento|25/02/2023|16:00
+Paulista|11|São Paulo|São Bernardo FC|São Paulo|São Paulo|Estádio Cícero Pompeu de Toledo|25/02/2023|16:30
+Paulista|11|Santos|Corinthians|Santos|São Paulo|Estádio Urbano Caldeira|26/02/2023|14:00
 Mineiro|7|Betim EC|Pouso Alegre|Ipatinga|Minas Gerais|Estádio João Lamego Neto|26/02/2023|14:00
+Paulista|11|Palmeiras|Ferroviária|São Paulo|São Paulo|Allianz Parque|26/02/2023|16:30
+Paulista|11|Portuguesa|San Bento|São Paulo|São Paulo|Estádio Dr. Oswaldo Teixeira Duarte|26/02/2023|18:40
+Gaucho|9|São José RS|São Luiz|Porto Alegre|Rio Grande do Sul|Estádio Francisco Novelletto Neto|27/02/2023|17:00
 Mineiro|7|Tombense|Villa Nova|Muriaé|Minas Gerais|Estádio Soares de Azevedo|27/02/2023|17:00
+Paulista|11|Santo André|Mirassol|Santo André|São Paulo|Estádio Bruno José Daniel|27/02/2023|18:00
+Gaucho|9|Caxias|Juventude|Caxias do Sul|Rio Grande do Sul|Estádio Francisco Stédile|27/02/2023|18:00
+Gaucho|9|Esportivo|Ypiranga Erechim|Bento Gonçalves|Rio Grande do Sul|Estádio Parque Esportivo Montanha dos Vinhedos|28/02/2023|18:00
 Mineiro|2|Betim EC|CA Patrocinense|Ipatinga|Minas Gerais|Estádio João Lamego Neto|01/03/2023|18:00
+Gaucho|10|Caxias|Ypiranga Erechim|Caxias do Sul|Rio Grande do Sul|Estádio Francisco Stédile|04/03/2023|14:30
 Mineiro|8|Athletic Club|Betim EC|São João Del Rei|Minas Gerais|Estádio Joaquim Portugal|04/03/2023|14:30
 Mineiro|8|Pouso Alegre|Caldense|Pouso Alegre|Minas Gerais|Estádio Municipal Irmão Gino Maria Rossi|04/03/2023|14:30
 Mineiro|8|Villa Nova|CA Patrocinense|Nova Lima|Minas Gerais|Estádio Municipal Castor de Cifuentes|04/03/2023|14:30
 Mineiro|8|América Mineiro|Tombense|Belo Horizonte|Minas Gerais|Estádio Raimundo Sampaio|04/03/2023|14:30
 Mineiro|8|Cruzeiro|Democrata SL|Cariacica|Espírito Santo|Estádio Kleber José de Andrade|04/03/2023|14:30
 Mineiro|8|Democrata GV|Atlético Mineiro|Governador Valadares|Minas Gerais|Estádio José Mammoud Abbas|04/03/2023|14:30
+Paulista|12|Corinthians|Santo André|São Paulo|São Paulo|Neo Química Arena|04/03/2023|16:30
+Gaucho|10|Esportivo|Juventude|Bento Gonçalves|Rio Grande do Sul|Estádio Parque Esportivo Montanha dos Vinhedos|04/03/2023|17:00
+Gaucho|10|São José RS|Avenida|Porto Alegre|Rio Grande do Sul|Estádio Francisco Novelletto Neto|04/03/2023|17:00
+Gaucho|10|Brasil de Pelotas|São Luiz|Pelotas|Rio Grande do Sul|Estádio Bento da Silva Freitas|04/03/2023|19:00
+Paulista|12|São Bernardo FC|Água Santa|São Bernardo do Campo|São Paulo|Estádio Primeiro de Maio|05/03/2023|14:00
+Paulista|12|San Bento|Bragantino|Sorocaba|São Paulo|Estádio Municipal Walter Ribeiro|05/03/2023|14:00
+Paulista|12|Mirassol|Portuguesa|Mirassol|São Paulo|Estádio José Maria de Campos Maia|05/03/2023|14:00
+Paulista|12|Ituano|Santos|Itu|São Paulo|Estádio Municipal Dr. Novelli Júnior|05/03/2023|14:00
+Paulista|12|Guarani|Palmeiras|Campinas|São Paulo|Estádio Brinco de Ouro da Princesa|05/03/2023|14:00
+Paulista|12|Ferroviária|Inter de Limeira|Araraquara|São Paulo|Estádio Doutor Adhemar de Barros|05/03/2023|14:00
+Paulista|12|Botafogo SP|São Paulo|Ribeirão Preto|São Paulo|Estádio Santa Cruz|05/03/2023|14:00
+Gaucho|10|Aimoré|Novo Hamburgo|São Leopoldo|Rio Grande do Sul|Estádio João Corrêa da Silveira|05/03/2023|14:00
+Gaucho|10|Grêmio|Internacional|Porto Alegre|Rio Grande do Sul|Arena do Grêmio|05/03/2023|18:00
+Paulista|TAÇA INDEPENDÊNCIA - QUARTER-FINALS|Guarani|Portuguesa|Campinas|São Paulo|Estádio Brinco de Ouro da Princesa|10/03/2023|18:00
+Paulista|TAÇA INDEPENDÊNCIA - QUARTER-FINALS|Santo André|Inter de Limeira|Santo André|São Paulo|Estádio Bruno José Daniel|11/03/2023|14:00
+Gaucho|11|Avenida|Caxias|Santa Cruz do Sul|Rio Grande do Sul|Estádio dos Eucaliptos|11/03/2023|14:30
+Gaucho|11|Juventude|Brasil de Pelotas|Caxias do Sul|Rio Grande do Sul|Estádio Alfredo Jaconi|11/03/2023|14:30
+Gaucho|11|Novo Hamburgo|São José RS|Novo Hamburgo|Rio Grande do Sul|Estádio do Vale|11/03/2023|14:30
+Gaucho|11|São Luiz|Aimoré|Ijuí|Rio Grande do Sul|Estádio 19 de Outubro|11/03/2023|14:30
+Gaucho|11|Internacional|Esportivo|Porto Alegre|Rio Grande do Sul|Estádio José Pinheiro Borda|11/03/2023|14:30
+Gaucho|11|Ypiranga Erechim|Grêmio|Erechim|Rio Grande do Sul|Estádio Olímpico Colosso da Lagoa|11/03/2023|14:30
 Mineiro|CAMPEONATO - SEMIFINALES|Cruzeiro|América Mineiro|Sete Lagoas|Minas Gerais|Arena do Jacaré|11/03/2023|14:30
 Mineiro|TROFÉU INCONFIDÊNCIA - SEMI-FINALS|Pouso Alegre|Tombense|Pouso Alegre|Minas Gerais|Estádio Municipal Irmão Gino Maria Rossi|11/03/2023|16:00
+Paulista|CUARTOS DE FINAL|Palmeiras|São Bernardo FC|São Paulo|São Paulo|Allianz Parque|11/03/2023|17:00
+Paulista|CUARTOS DE FINAL|Corinthians|Ituano|São Paulo|São Paulo|Neo Química Arena|12/03/2023|14:00
 Mineiro|CAMPEONATO - SEMIFINALES|Athletic Club|Atlético Mineiro|São João Del Rei|Minas Gerais|Estádio Joaquim Portugal|12/03/2023|14:00
+Paulista|CUARTOS DE FINAL|Bragantino|Botafogo SP|Bragança Paulista|São Paulo|Estádio Nabi Abi Chedid|12/03/2023|17:30
+Paulista|CUARTOS DE FINAL|São Paulo|Água Santa|São Paulo|São Paulo|Allianz Parque|13/03/2023|18:00
 Mineiro|TROFÉU INCONFIDÊNCIA - SEMI-FINALS|Democrata GV|Villa Nova|Governador Valadares|Minas Gerais|Estádio José Mammoud Abbas|13/03/2023|18:30
+Paulista|TAÇA INDEPENDÊNCIA - SEMI-FINALS|São Bernardo FC|Inter de Limeira|São Bernardo do Campo|São Paulo|Estádio Primeiro de Maio|16/03/2023|17:00
+Paulista|TAÇA INDEPENDÊNCIA - SEMI-FINALS|Mirassol|Guarani|Mirassol|São Paulo|Estádio José Maria de Campos Maia|17/03/2023|18:00
+Gaucho|SEMIFINALES|Caxias|Internacional|Caxias do Sul|Rio Grande do Sul|Estádio Francisco Stédile|18/03/2023|14:30
 Mineiro|CAMPEONATO - SEMIFINALES|Atlético Mineiro|Athletic Club|Belo Horizonte|Minas Gerais|Estádio Raimundo Sampaio|18/03/2023|14:30
 Mineiro|TROFÉU INCONFIDÊNCIA - SEMI-FINALS|Tombense|Pouso Alegre|Muriaé|Minas Gerais|Estádio Soares de Azevedo|18/03/2023|16:00
+Paulista|SEMIFINALES|Palmeiras|Ituano|São Paulo|São Paulo|Allianz Parque|19/03/2023|14:00
+Gaucho|SEMIFINALES|Ypiranga Erechim|Grêmio|Erechim|Rio Grande do Sul|Estádio Olímpico Colosso da Lagoa|19/03/2023|14:00
 Mineiro|TROFÉU INCONFIDÊNCIA - SEMI-FINALS|Villa Nova|Democrata GV|Nova Lima|Minas Gerais|Estádio Municipal Castor de Cifuentes|19/03/2023|14:00
 Mineiro|CAMPEONATO - SEMIFINALES|América Mineiro|Cruzeiro|Belo Horizonte|Minas Gerais|Estádio Raimundo Sampaio|19/03/2023|16:00
+Paulista|SEMIFINALES|Água Santa|Bragantino|Santos|São Paulo|Estádio Urbano Caldeira|20/03/2023|19:00
+Gaucho|SEMIFINALES|Grêmio|Ypiranga Erechim|Porto Alegre|Rio Grande do Sul|Arena do Grêmio|25/03/2023|14:30
+Paulista|TAÇA INDEPENDÊNCIA - FINAL|São Bernardo FC|Mirassol|São Bernardo do Campo|São Paulo|Estádio Primeiro de Maio|26/03/2023|14:00
 Mineiro|TROFÉU INCONFIDÊNCIA - FINALS|Villa Nova|Tombense|Nova Lima|Minas Gerais|Estádio Municipal Castor de Cifuentes|26/03/2023|14:00
+Gaucho|SEMIFINALES|Internacional|Caxias|Porto Alegre|Rio Grande do Sul|Estádio José Pinheiro Borda|26/03/2023|16:00
+Gaucho|FINAL|Caxias|Grêmio|Caxias do Sul|Rio Grande do Sul|Estádio Francisco Stédile|01/04/2023|14:30
 Mineiro|CAMPEONATO - FINAL|América Mineiro|Atlético Mineiro|Belo Horizonte|Minas Gerais|Estádio Raimundo Sampaio|01/04/2023|14:30
 Mineiro|TROFÉU INCONFIDÊNCIA - FINALS|Tombense|Villa Nova|Muriaé|Minas Gerais|Estádio Soares de Azevedo|01/04/2023|16:00
+Paulista|FINAL|Água Santa|Palmeiras|Barueri|São Paulo|Arena Barueri|02/04/2023|14:00
+Gaucho|FINAL|Grêmio|Caxias|Porto Alegre|Rio Grande do Sul|Arena do Grêmio|08/04/2023|14:30
+Paulista|FINAL|Palmeiras|Água Santa|São Paulo|São Paulo|Allianz Parque|09/04/2023|14:00
 Mineiro|CAMPEONATO - FINAL|Atlético Mineiro|América Mineiro|Belo Horizonte|Minas Gerais|Estádio Governador Magalhães Pinto|09/04/2023|14:30

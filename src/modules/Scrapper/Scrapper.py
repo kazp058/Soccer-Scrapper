@@ -105,6 +105,11 @@ class Scrapper:
             
             self.__cache.append((distance, hours, minutes))
         except TimeoutException:
+            time.sleep(10)
+
+            WebDriverWait(driver=self.driver, timeout=5).until(
+                EC.presence_of_element_located((By.CSS_SELECTOR, 'div.directionsPanel'))
+            )
             container = self.driver.find_element(By.CSS_SELECTOR, "ul[role=list]")
             boxes = container.find_elements(By.CSS_SELECTOR, "li")
             c_box = boxes[0].find_element(By.CSS_SELECTOR, "input")

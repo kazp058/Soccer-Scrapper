@@ -17,6 +17,7 @@ class Kit:
         self.until = None
         self.name = None
         self.type = None
+        self.timeframe = None
 
     def setType(self, type:str):
         self.type = type
@@ -33,6 +34,7 @@ class Kit:
 
     def check_if_available(self, timestamp):
         if self.until == None:
+            self.timeframe = 0
             return True
         else:
             diff = timestamp - self.until
@@ -40,7 +42,7 @@ class Kit:
                 return False
             
             minutes = diff.total_seconds() // 60 
-
+            self.timeframe = minutes // 60
             if self.type == self.TYPE_KIT and minutes >= self.__MIN_TIME_ALLOWED_KIT:
                 return True
             elif self.type == self.TYPE_VAN and minutes >= self.__MIN_TIME_ALLOWED_VAN:
