@@ -34,7 +34,7 @@ class Match:
     def get_address(self) -> str:
         return self.stadium + ", " + self.city + ", " + self.state + ", Brazil"
 
-    def get_matches()-> dict:
+    def get_cache()-> dict:
         return Match.__MATCHES
     
     def read_cache(__cache:any):
@@ -52,7 +52,7 @@ class Match:
             ko = ko.split(":")
             ko = int(ko[0] + ko[1]) if len(ko) > 1 else 0
 
-            by_date = Match.__MATCHES.get(date)
+            by_date = Match.__MATCHES.get(date,{})
             by_ko = by_date.get(ko, {})
             
             match_id = gameround + "_" + home

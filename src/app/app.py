@@ -5,7 +5,8 @@ from src.modules.Scrapper.Scrapper import Objective as scrp_obj
 from src.models.Match import Match
 from src.models.Distance import Distance
 from src.modules.FileManager.FileManager import FileManager
-
+from src.modules.FileManager.FileManager import Objective as fm_obj
+from src.modules.FileManager.FileManager import By as fm_by
 class App:
     __url_pairs = [("https://el.soccerway.com/national/brazil/paulista-a1/2023/regular-season/r68430/",
                 "https://el.soccerway.com/national/brazil/paulista-a1/2023/s21397/final-stages/"),
@@ -31,8 +32,12 @@ class App:
                                 objective=scrp_obj.MATCH)
             __cache = scrapper.launch(scrp_obj.MATCH)
             print("Loaded matches: " + str(len(__cache))) 
+            Match.clean_cache()
             Match.read_cache(__cache)
-
+            FileManager.save("joint_A1", Match.get_cache(),objective=fm_obj.DICT)
+            FileManager.save("Gaucho_A1", Match.get_cache(),objective=fm_obj.DICT, by= fm_by.TOURNAMENT_GAUCHO)
+            FileManager.save("Paulista_A1", Match.get_cache(),objective=fm_obj.DICT, by= fm_by.TOURNAMENT_PAULISTA)
+            FileManager.save("Mineiro_A1", Match.get_cache(),objective=fm_obj.DICT, by= fm_by.TOURNAMENT_MINEIRO)
     def __scrapper_paulista():
         scrapper = Scrapper(url_pair= App.__url_pairs[0], 
                             tournament= App.__tournaments[0], 
@@ -40,6 +45,7 @@ class App:
         __cache = scrapper.launch(scrp_obj.MATCH)
         print("Loaded matches: " + str(len(__cache))) 
         Match.read_cache(__cache)
+        FileManager.save("Paulista_A1", Match.get_cache(),objective=fm_obj.DICT, by= fm_by.TOURNAMENT_PAULISTA)
 
     def __scrapper_gaucho():
         scrapper = Scrapper(url_pair= App.__url_pairs[1], 
@@ -48,6 +54,7 @@ class App:
         __cache = scrapper.launch(scrp_obj.MATCH)
         print("Loaded matches: " + str(len(__cache))) 
         Match.read_cache(__cache)
+        FileManager.save("Gaucho_A1", Match.get_cache(),objective=fm_obj.DICT, by= fm_by.TOURNAMENT_GAUCHO)
 
     def __scrapper_mineiro():
         scrapper = Scrapper(url_pair= App.__url_pairs[2],  
@@ -55,7 +62,8 @@ class App:
                             objective=scrp_obj.MATCH)
         __cache = scrapper.launch(scrp_obj.MATCH)
         print("Loaded matches: " + str(len(__cache))) 
-        Match.read_cache(__cache) 
+        Match.read_cache(__cache)
+        FileManager.save("Mineiro_A1", Match.get_cache(),objective=fm_obj.DICT, by= fm_by.TOURNAMENT_MINEIRO)
            
 
     def __simulate():
@@ -65,19 +73,25 @@ class App:
 
     def __preload():
         #load matches if available
+        Match.clean_cache()
+        Distance.clean_cache()
         __cache_MATCHES = FileManager.open_file("joint_A1")
         if len(__cache_MATCHES) == 0:
             __cache_MATCHES = []
-            for tournament in App.__tournaments:
-                __cache_MATCHES += FileManager.open_file(tournament + "_A1")
+            __cache_MATCHES += FileManager.open_file("Gaucho_A1")
+            __cache_MATCHES += FileManager.open_file("Mineiro_A1")
+            __cache_MATCHES += FileManager.open_file("Paulista_A1")
+
+            Match.read_cache(__cache_MATCHES)
+            FileManager.save("joint_A1", Match.get_cache(),objective=fm_obj.DICT)
+        else:
+            Match.read_cache(__cache_MATCHES)
 
         __cache_DISTANCES = FileManager.open_file("distances")
  
         print("Loaded distances: " + str(len(__cache_DISTANCES)))
-        #load distances if available
         print("Loaded matches: " + str(len(__cache_MATCHES))) 
-        #if no matches available then ask if scrapper
-        pass
+
 
     def run():
 

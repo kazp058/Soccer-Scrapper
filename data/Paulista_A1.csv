@@ -1,91 +1,92 @@
-Paulista|1|São Paulo|Ituano|São Paulo|São Paulo|Estádio Cícero Pompeu de Toledo|15/01/2023|16:30
-Paulista|1|Bragantino|Corinthians|Bragança Paulista|São Paulo|Estádio Nabi Abi Chedid|15/01/2023|14:00
-Paulista|1|Água Santa|Ferroviária|São Paulo|São Paulo|Estádio Distrital do Jardim Inamar|15/01/2023|09:00
-Paulista|1|Santos|Mirassol|Santos|São Paulo|Estádio Urbano Caldeira|14/01/2023|18:30
-Paulista|1|Palmeiras|San Bento|São Paulo|São Paulo|Allianz Parque|14/01/2023|16:30
-Paulista|1|Santo André|Guarani|Santo André|São Paulo|Estádio Bruno José Daniel|14/01/2023|14:00
-Paulista|1|Portuguesa|Botafogo SP|São Paulo|São Paulo|Estádio Dr. Oswaldo Teixeira Duarte|14/01/2023|13:30
 Paulista|1|Inter de Limeira|São Bernardo FC|Limeira|São Paulo|Estádio Major José Levy Sobrinho|14/01/2023|09:00
-Paulista|2|Botafogo SP|Palmeiras|Ribeirão Preto|São Paulo|Estádio Santa Cruz|19/01/2023|19:30
-Paulista|2|Ferroviária|São Paulo|Araraquara|São Paulo|Estádio Doutor Adhemar de Barros|19/01/2023|17:30
-Paulista|2|Guarani|Santos|Campinas|São Paulo|Estádio Brinco de Ouro da Princesa|18/01/2023|19:35
-Paulista|2|Ituano|Portuguesa|Itu|São Paulo|Estádio Municipal Dr. Novelli Júnior|18/01/2023|18:30
-Paulista|2|Corinthians|Água Santa|São Paulo|São Paulo|Neo Química Arena|18/01/2023|17:30
-Paulista|2|São Bernardo FC|Bragantino|São Bernardo do Campo|São Paulo|Estádio Primeiro de Maio|18/01/2023|17:00
-Paulista|2|Mirassol|Inter de Limeira|Mirassol|São Paulo|Estádio José Maria de Campos Maia|17/01/2023|17:30
+Paulista|1|Portuguesa|Botafogo SP|São Paulo|São Paulo|Estádio Dr. Oswaldo Teixeira Duarte|14/01/2023|13:30
+Paulista|1|Santo André|Guarani|Santo André|São Paulo|Estádio Bruno José Daniel|14/01/2023|14:00
+Paulista|1|Palmeiras|San Bento|São Paulo|São Paulo|Allianz Parque|14/01/2023|16:30
+Paulista|1|Santos|Mirassol|Santos|São Paulo|Estádio Urbano Caldeira|14/01/2023|18:30
+Paulista|1|Água Santa|Ferroviária|São Paulo|São Paulo|Estádio Distrital do Jardim Inamar|15/01/2023|09:00
+Paulista|1|Bragantino|Corinthians|Bragança Paulista|São Paulo|Estádio Nabi Abi Chedid|15/01/2023|14:00
+Paulista|1|São Paulo|Ituano|São Paulo|São Paulo|Estádio Cícero Pompeu de Toledo|15/01/2023|16:30
 Paulista|2|San Bento|Santo André|Sorocaba|São Paulo|Estádio Municipal Walter Ribeiro|17/01/2023|13:30
+Paulista|2|Mirassol|Inter de Limeira|Mirassol|São Paulo|Estádio José Maria de Campos Maia|17/01/2023|17:30
+Paulista|2|São Bernardo FC|Bragantino|São Bernardo do Campo|São Paulo|Estádio Primeiro de Maio|18/01/2023|17:00
+Paulista|2|Corinthians|Água Santa|São Paulo|São Paulo|Neo Química Arena|18/01/2023|17:30
+Paulista|2|Ituano|Portuguesa|Itu|São Paulo|Estádio Municipal Dr. Novelli Júnior|18/01/2023|18:30
+Paulista|2|Guarani|Santos|Campinas|São Paulo|Estádio Brinco de Ouro da Princesa|18/01/2023|19:35
+Paulista|2|Ferroviária|São Paulo|Araraquara|São Paulo|Estádio Doutor Adhemar de Barros|19/01/2023|17:30
+Paulista|2|Botafogo SP|Palmeiras|Ribeirão Preto|São Paulo|Estádio Santa Cruz|19/01/2023|19:30
+Paulista|3|Água Santa|San Bento|São Paulo|São Paulo|Estádio Distrital do Jardim Inamar|21/01/2023|13:00
+Paulista|3|Portuguesa|Bragantino|São Paulo|São Paulo|Estádio Dr. Oswaldo Teixeira Duarte|21/01/2023|13:30
+Paulista|3|Guarani|Ituano|Campinas|São Paulo|Estádio Brinco de Ouro da Princesa|21/01/2023|14:00
+Paulista|3|Inter de Limeira|Corinthians|Limeira|São Paulo|Estádio Major José Levy Sobrinho|21/01/2023|16:30
+Paulista|3|Palmeiras|São Paulo|São Paulo|São Paulo|Allianz Parque|22/01/2023|14:00
+Paulista|3|São Bernardo FC|Santos|São Bernardo do Campo|São Paulo|Estádio Primeiro de Maio|22/01/2023|16:30
 Paulista|3|Ferroviária|Santo André|Araraquara|São Paulo|Estádio Doutor Adhemar de Barros|22/01/2023|18:30
 Paulista|3|Botafogo SP|Mirassol|Ribeirão Preto|São Paulo|Estádio Santa Cruz|22/01/2023|18:30
-Paulista|3|São Bernardo FC|Santos|São Bernardo do Campo|São Paulo|Estádio Primeiro de Maio|22/01/2023|16:30
-Paulista|3|Palmeiras|São Paulo|São Paulo|São Paulo|Allianz Parque|22/01/2023|14:00
-Paulista|3|Inter de Limeira|Corinthians|Limeira|São Paulo|Estádio Major José Levy Sobrinho|21/01/2023|16:30
-Paulista|3|Guarani|Ituano|Campinas|São Paulo|Estádio Brinco de Ouro da Princesa|21/01/2023|14:00
-Paulista|3|Portuguesa|Bragantino|São Paulo|São Paulo|Estádio Dr. Oswaldo Teixeira Duarte|21/01/2023|13:30
-Paulista|3|Água Santa|San Bento|São Paulo|São Paulo|Estádio Distrital do Jardim Inamar|21/01/2023|13:00
-Paulista|4|São Paulo|Portuguesa|São Paulo|São Paulo|Estádio Cícero Pompeu de Toledo|26/01/2023|19:30
-Paulista|4|Mirassol|São Bernardo FC|Mirassol|São Paulo|Estádio José Maria de Campos Maia|26/01/2023|17:30
-Paulista|4|San Bento|Inter de Limeira|Sorocaba|São Paulo|Estádio Municipal Walter Ribeiro|26/01/2023|13:30
-Paulista|4|Santos|Água Santa|Santos|São Paulo|Estádio Urbano Caldeira|25/01/2023|19:35
-Paulista|4|Santo André|Botafogo SP|Santo André|São Paulo|Estádio Bruno José Daniel|25/01/2023|18:30
-Paulista|4|Ituano|Palmeiras|Itu|São Paulo|Estádio Municipal Dr. Novelli Júnior|25/01/2023|17:30
-Paulista|4|Bragantino|Ferroviária|Bragança Paulista|São Paulo|Estádio Nabi Abi Chedid|25/01/2023|17:00
 Paulista|4|Corinthians|Guarani|São Paulo|São Paulo|Neo Química Arena|24/01/2023|null
-Paulista|5|Mirassol|Palmeiras|Mirassol|São Paulo|Estádio José Maria de Campos Maia|01/02/2023|19:35
-Paulista|5|São Paulo|Corinthians|São Paulo|São Paulo|Estádio Cícero Pompeu de Toledo|29/01/2023|16:30
-Paulista|5|São Bernardo FC|San Bento|São Bernardo do Campo|São Paulo|Estádio Primeiro de Maio|29/01/2023|14:00
-Paulista|5|Inter de Limeira|Ituano|Limeira|São Paulo|Estádio Major José Levy Sobrinho|29/01/2023|14:00
-Paulista|5|Água Santa|Portuguesa|São Paulo|São Paulo|Estádio Distrital do Jardim Inamar|29/01/2023|13:00
-Paulista|5|Botafogo SP|Guarani|Ribeirão Preto|São Paulo|Estádio Santa Cruz|28/01/2023|18:40
+Paulista|4|Bragantino|Ferroviária|Bragança Paulista|São Paulo|Estádio Nabi Abi Chedid|25/01/2023|17:00
+Paulista|4|Ituano|Palmeiras|Itu|São Paulo|Estádio Municipal Dr. Novelli Júnior|25/01/2023|17:30
+Paulista|4|Santo André|Botafogo SP|Santo André|São Paulo|Estádio Bruno José Daniel|25/01/2023|18:30
+Paulista|4|Santos|Água Santa|Santos|São Paulo|Estádio Urbano Caldeira|25/01/2023|19:35
+Paulista|4|San Bento|Inter de Limeira|Sorocaba|São Paulo|Estádio Municipal Walter Ribeiro|26/01/2023|13:30
+Paulista|4|Mirassol|São Bernardo FC|Mirassol|São Paulo|Estádio José Maria de Campos Maia|26/01/2023|17:30
+Paulista|4|São Paulo|Portuguesa|São Paulo|São Paulo|Estádio Cícero Pompeu de Toledo|26/01/2023|19:30
 Paulista|5|Bragantino|Santo André|Bragança Paulista|São Paulo|Estádio Nabi Abi Chedid|28/01/2023|null
 Paulista|5|Santos|Ferroviária|São Paulo|São Paulo|Estádio Dr. Oswaldo Teixeira Duarte|28/01/2023|16:30
-Paulista|6|Portuguesa|Inter de Limeira|São Paulo|São Paulo|Estádio Dr. Oswaldo Teixeira Duarte|05/02/2023|18:30
-Paulista|6|Corinthians|Botafogo SP|São Paulo|São Paulo|Neo Química Arena|05/02/2023|16:30
-Paulista|6|Santo André|São Paulo|Santo André|São Paulo|Estádio Bruno José Daniel|05/02/2023|14:00
-Paulista|6|Ituano|Água Santa|Itu|São Paulo|Estádio Municipal Dr. Novelli Júnior|05/02/2023|09:00
-Paulista|6|Palmeiras|Santos|São Paulo|São Paulo|Estádio Cícero Pompeu de Toledo|04/02/2023|16:30
+Paulista|5|Botafogo SP|Guarani|Ribeirão Preto|São Paulo|Estádio Santa Cruz|28/01/2023|18:40
+Paulista|5|Água Santa|Portuguesa|São Paulo|São Paulo|Estádio Distrital do Jardim Inamar|29/01/2023|13:00
+Paulista|5|São Bernardo FC|San Bento|São Bernardo do Campo|São Paulo|Estádio Primeiro de Maio|29/01/2023|14:00
+Paulista|5|Inter de Limeira|Ituano|Limeira|São Paulo|Estádio Major José Levy Sobrinho|29/01/2023|14:00
+Paulista|5|São Paulo|Corinthians|São Paulo|São Paulo|Estádio Cícero Pompeu de Toledo|29/01/2023|16:30
+Paulista|5|Mirassol|Palmeiras|Mirassol|São Paulo|Estádio José Maria de Campos Maia|01/02/2023|19:35
+Paulista|6|San Bento|Mirassol|Sorocaba|São Paulo|Estádio Municipal Walter Ribeiro|04/02/2023|13:30
 Paulista|6|Guarani|Bragantino|Campinas|São Paulo|Estádio Brinco de Ouro da Princesa|04/02/2023|14:00
 Paulista|6|Ferroviária|São Bernardo FC|Araraquara|São Paulo|Estádio Doutor Adhemar de Barros|04/02/2023|14:00
-Paulista|6|San Bento|Mirassol|Sorocaba|São Paulo|Estádio Municipal Walter Ribeiro|04/02/2023|13:30
-Paulista|7|São Bernardo FC|Corinthians|São Bernardo do Campo|São Paulo|Estádio Primeiro de Maio|09/02/2023|19:30
-Paulista|7|Palmeiras|Inter de Limeira|São Paulo|São Paulo|Allianz Parque|09/02/2023|17:30
-Paulista|7|Santo André|Água Santa|Santo André|São Paulo|Estádio Bruno José Daniel|09/02/2023|16:00
-Paulista|7|Santos|San Bento|Santos|São Paulo|Estádio Urbano Caldeira|08/02/2023|19:35
+Paulista|6|Palmeiras|Santos|São Paulo|São Paulo|Estádio Cícero Pompeu de Toledo|04/02/2023|16:30
+Paulista|6|Ituano|Água Santa|Itu|São Paulo|Estádio Municipal Dr. Novelli Júnior|05/02/2023|09:00
+Paulista|6|Santo André|São Paulo|Santo André|São Paulo|Estádio Bruno José Daniel|05/02/2023|14:00
+Paulista|6|Corinthians|Botafogo SP|São Paulo|São Paulo|Neo Química Arena|05/02/2023|16:30
+Paulista|6|Portuguesa|Inter de Limeira|São Paulo|São Paulo|Estádio Dr. Oswaldo Teixeira Duarte|05/02/2023|18:30
+Paulista|7|Mirassol|Ferroviária|Mirassol|São Paulo|Estádio José Maria de Campos Maia|07/02/2023|17:30
+Paulista|7|Bragantino|São Paulo|Bragança Paulista|São Paulo|Estádio Nabi Abi Chedid|08/02/2023|17:30
 Paulista|7|Guarani|Portuguesa|Campinas|São Paulo|Estádio Brinco de Ouro da Princesa|08/02/2023|18:30
 Paulista|7|Botafogo SP|Ituano|Ribeirão Preto|São Paulo|Estádio Santa Cruz|08/02/2023|18:30
-Paulista|7|Bragantino|São Paulo|Bragança Paulista|São Paulo|Estádio Nabi Abi Chedid|08/02/2023|17:30
-Paulista|7|Mirassol|Ferroviária|Mirassol|São Paulo|Estádio José Maria de Campos Maia|07/02/2023|17:30
-Paulista|8|Ituano|São Bernardo FC|Itu|São Paulo|Estádio Municipal Dr. Novelli Júnior|22/02/2023|17:30
-Paulista|8|Inter de Limeira|Santo André|Limeira|São Paulo|Estádio Major José Levy Sobrinho|12/02/2023|18:30
-Paulista|8|São Paulo|Santos|São Paulo|São Paulo|Estádio Cícero Pompeu de Toledo|12/02/2023|17:00
-Paulista|8|Portuguesa|Corinthians|Brasília|Distrito Federal|Arena BRB Mané Garrincha|12/02/2023|14:00
-Paulista|8|Água Santa|Palmeiras|São Paulo|São Paulo|Estádio Distrital do Jardim Inamar|12/02/2023|09:00
-Paulista|8|Bragantino|Mirassol|Bragança Paulista|São Paulo|Estádio Nabi Abi Chedid|11/02/2023|18:30
-Paulista|8|San Bento|Guarani|Sorocaba|São Paulo|Estádio Municipal Walter Ribeiro|11/02/2023|17:00
+Paulista|7|Santos|San Bento|Santos|São Paulo|Estádio Urbano Caldeira|08/02/2023|19:35
+Paulista|7|Santo André|Água Santa|Santo André|São Paulo|Estádio Bruno José Daniel|09/02/2023|16:00
+Paulista|7|Palmeiras|Inter de Limeira|São Paulo|São Paulo|Allianz Parque|09/02/2023|17:30
+Paulista|7|São Bernardo FC|Corinthians|São Bernardo do Campo|São Paulo|Estádio Primeiro de Maio|09/02/2023|19:30
 Paulista|8|Ferroviária|Botafogo SP|Araraquara|São Paulo|Estádio Doutor Adhemar de Barros|11/02/2023|16:30
-Paulista|9|Corinthians|Palmeiras|São Paulo|São Paulo|Neo Química Arena|16/02/2023|19:30
-Paulista|9|Santo André|Santos|Santo André|São Paulo|Estádio Bruno José Daniel|16/02/2023|17:30
-Paulista|9|Mirassol|Ituano|Mirassol|São Paulo|Estádio José Maria de Campos Maia|16/02/2023|16:00
-Paulista|9|São Paulo|Inter de Limeira|São Paulo|São Paulo|Estádio Cícero Pompeu de Toledo|15/02/2023|19:35
-Paulista|9|Portuguesa|Ferroviária|São Paulo|São Paulo|Estádio Dr. Oswaldo Teixeira Duarte|15/02/2023|18:30
-Paulista|9|Guarani|São Bernardo FC|Campinas|São Paulo|Estádio Brinco de Ouro da Princesa|15/02/2023|17:30
-Paulista|9|Água Santa|Bragantino|São Paulo|São Paulo|Estádio Distrital do Jardim Inamar|15/02/2023|13:00
+Paulista|8|San Bento|Guarani|Sorocaba|São Paulo|Estádio Municipal Walter Ribeiro|11/02/2023|17:00
+Paulista|8|Bragantino|Mirassol|Bragança Paulista|São Paulo|Estádio Nabi Abi Chedid|11/02/2023|18:30
+Paulista|8|Água Santa|Palmeiras|São Paulo|São Paulo|Estádio Distrital do Jardim Inamar|12/02/2023|09:00
+Paulista|8|Portuguesa|Corinthians|Brasília|Distrito Federal|Arena BRB Mané Garrincha|12/02/2023|14:00
+Paulista|8|São Paulo|Santos|São Paulo|São Paulo|Estádio Cícero Pompeu de Toledo|12/02/2023|17:00
+Paulista|8|Inter de Limeira|Santo André|Limeira|São Paulo|Estádio Major José Levy Sobrinho|12/02/2023|18:30
 Paulista|9|Botafogo SP|San Bento|Ribeirão Preto|São Paulo|Estádio Santa Cruz|14/02/2023|17:30
-Paulista|10|Palmeiras|Bragantino|São Paulo|São Paulo|Allianz Parque|22/02/2023|19:35
-Paulista|10|San Bento|São Paulo|Sorocaba|São Paulo|Estádio Municipal Walter Ribeiro|21/02/2023|17:30
-Paulista|10|Ituano|Santo André|Itu|São Paulo|Estádio Municipal Dr. Novelli Júnior|19/02/2023|18:40
-Paulista|10|Corinthians|Mirassol|São Paulo|São Paulo|Neo Química Arena|19/02/2023|16:30
-Paulista|10|São Bernardo FC|Botafogo SP|São Bernardo do Campo|São Paulo|Estádio Primeiro de Maio|19/02/2023|14:00
-Paulista|10|Santos|Portuguesa|Santos|São Paulo|Estádio Urbano Caldeira|19/02/2023|14:00
+Paulista|9|Água Santa|Bragantino|São Paulo|São Paulo|Estádio Distrital do Jardim Inamar|15/02/2023|13:00
+Paulista|9|Guarani|São Bernardo FC|Campinas|São Paulo|Estádio Brinco de Ouro da Princesa|15/02/2023|17:30
+Paulista|9|Portuguesa|Ferroviária|São Paulo|São Paulo|Estádio Dr. Oswaldo Teixeira Duarte|15/02/2023|18:30
+Paulista|9|São Paulo|Inter de Limeira|São Paulo|São Paulo|Estádio Cícero Pompeu de Toledo|15/02/2023|19:35
+Paulista|9|Mirassol|Ituano|Mirassol|São Paulo|Estádio José Maria de Campos Maia|16/02/2023|16:00
+Paulista|9|Santo André|Santos|Santo André|São Paulo|Estádio Bruno José Daniel|16/02/2023|17:30
+Paulista|9|Corinthians|Palmeiras|São Paulo|São Paulo|Neo Química Arena|16/02/2023|19:30
 Paulista|10|Ferroviária|Guarani|Araraquara|São Paulo|Estádio Doutor Adhemar de Barros|18/02/2023|14:00
 Paulista|10|Inter de Limeira|Água Santa|Limeira|São Paulo|Estádio Major José Levy Sobrinho|18/02/2023|14:00
-Paulista|11|Santo André|Mirassol|Santo André|São Paulo|Estádio Bruno José Daniel|27/02/2023|null
-Paulista|11|Portuguesa|San Bento|São Paulo|São Paulo|Estádio Dr. Oswaldo Teixeira Duarte|26/02/2023|18:40
-Paulista|11|Palmeiras|Ferroviária|São Paulo|São Paulo|Allianz Parque|26/02/2023|16:30
-Paulista|11|Santos|Corinthians|Santos|São Paulo|Estádio Urbano Caldeira|26/02/2023|14:00
-Paulista|11|São Paulo|São Bernardo FC|São Paulo|São Paulo|Estádio Cícero Pompeu de Toledo|25/02/2023|16:30
+Paulista|10|São Bernardo FC|Botafogo SP|São Bernardo do Campo|São Paulo|Estádio Primeiro de Maio|19/02/2023|14:00
+Paulista|10|Santos|Portuguesa|Santos|São Paulo|Estádio Urbano Caldeira|19/02/2023|14:00
+Paulista|10|Corinthians|Mirassol|São Paulo|São Paulo|Neo Química Arena|19/02/2023|16:30
+Paulista|10|Ituano|Santo André|Itu|São Paulo|Estádio Municipal Dr. Novelli Júnior|19/02/2023|18:40
+Paulista|10|San Bento|São Paulo|Sorocaba|São Paulo|Estádio Municipal Walter Ribeiro|21/02/2023|17:30
+Paulista|8|Ituano|São Bernardo FC|Itu|São Paulo|Estádio Municipal Dr. Novelli Júnior|22/02/2023|17:30
+Paulista|10|Palmeiras|Bragantino|São Paulo|São Paulo|Allianz Parque|22/02/2023|19:35
+Paulista|11|Água Santa|Botafogo SP|São Paulo|São Paulo|Estádio Distrital do Jardim Inamar|25/02/2023|13:00
 Paulista|11|Bragantino|Ituano|Bragança Paulista|São Paulo|Estádio Nabi Abi Chedid|25/02/2023|14:00
 Paulista|11|Inter de Limeira|Guarani|Sorocaba|São Paulo|Estádio Municipal Walter Ribeiro|25/02/2023|14:00
-Paulista|11|Água Santa|Botafogo SP|São Paulo|São Paulo|Estádio Distrital do Jardim Inamar|25/02/2023|13:00
+Paulista|11|São Paulo|São Bernardo FC|São Paulo|São Paulo|Estádio Cícero Pompeu de Toledo|25/02/2023|16:30
+Paulista|11|Santos|Corinthians|Santos|São Paulo|Estádio Urbano Caldeira|26/02/2023|14:00
+Paulista|11|Palmeiras|Ferroviária|São Paulo|São Paulo|Allianz Parque|26/02/2023|16:30
+Paulista|11|Portuguesa|San Bento|São Paulo|São Paulo|Estádio Dr. Oswaldo Teixeira Duarte|26/02/2023|18:40
+Paulista|11|Santo André|Mirassol|Santo André|São Paulo|Estádio Bruno José Daniel|27/02/2023|null
+Paulista|12|Corinthians|Santo André|São Paulo|São Paulo|Neo Química Arena|04/03/2023|16:30
 Paulista|12|São Bernardo FC|Água Santa|São Bernardo do Campo|São Paulo|Estádio Primeiro de Maio|05/03/2023|14:00
 Paulista|12|San Bento|Bragantino|Sorocaba|São Paulo|Estádio Municipal Walter Ribeiro|05/03/2023|14:00
 Paulista|12|Mirassol|Portuguesa|Mirassol|São Paulo|Estádio José Maria de Campos Maia|05/03/2023|14:00
@@ -93,17 +94,16 @@ Paulista|12|Ituano|Santos|Itu|São Paulo|Estádio Municipal Dr. Novelli Júnior|
 Paulista|12|Guarani|Palmeiras|Campinas|São Paulo|Estádio Brinco de Ouro da Princesa|05/03/2023|14:00
 Paulista|12|Ferroviária|Inter de Limeira|Araraquara|São Paulo|Estádio Doutor Adhemar de Barros|05/03/2023|14:00
 Paulista|12|Botafogo SP|São Paulo|Ribeirão Preto|São Paulo|Estádio Santa Cruz|05/03/2023|14:00
-Paulista|12|Corinthians|Santo André|São Paulo|São Paulo|Neo Química Arena|04/03/2023|16:30
-Paulista|TAÇA INDEPENDÊNCIA - QUARTER-FINALS|Santo André|Inter de Limeira|Santo André|São Paulo|Estádio Bruno José Daniel|11/03/2023|14:00
 Paulista|TAÇA INDEPENDÊNCIA - QUARTER-FINALS|Guarani|Portuguesa|Campinas|São Paulo|Estádio Brinco de Ouro da Princesa|10/03/2023|null
-Paulista|CUARTOS DE FINAL|São Paulo|Água Santa|São Paulo|São Paulo|Allianz Parque|13/03/2023|null
-Paulista|CUARTOS DE FINAL|Bragantino|Botafogo SP|Bragança Paulista|São Paulo|Estádio Nabi Abi Chedid|12/03/2023|17:30
-Paulista|CUARTOS DE FINAL|Corinthians|Ituano|São Paulo|São Paulo|Neo Química Arena|12/03/2023|14:00
+Paulista|TAÇA INDEPENDÊNCIA - QUARTER-FINALS|Santo André|Inter de Limeira|Santo André|São Paulo|Estádio Bruno José Daniel|11/03/2023|14:00
 Paulista|CUARTOS DE FINAL|Palmeiras|São Bernardo FC|São Paulo|São Paulo|Allianz Parque|11/03/2023|17:00
-Paulista|TAÇA INDEPENDÊNCIA - SEMI-FINALS|Mirassol|Guarani|Mirassol|São Paulo|Estádio José Maria de Campos Maia|17/03/2023|null
+Paulista|CUARTOS DE FINAL|Corinthians|Ituano|São Paulo|São Paulo|Neo Química Arena|12/03/2023|14:00
+Paulista|CUARTOS DE FINAL|Bragantino|Botafogo SP|Bragança Paulista|São Paulo|Estádio Nabi Abi Chedid|12/03/2023|17:30
+Paulista|CUARTOS DE FINAL|São Paulo|Água Santa|São Paulo|São Paulo|Allianz Parque|13/03/2023|null
 Paulista|TAÇA INDEPENDÊNCIA - SEMI-FINALS|São Bernardo FC|Inter de Limeira|São Bernardo do Campo|São Paulo|Estádio Primeiro de Maio|16/03/2023|17:00
-Paulista|SEMIFINALES|Água Santa|Bragantino|Santos|São Paulo|Estádio Urbano Caldeira|20/03/2023|19:00
+Paulista|TAÇA INDEPENDÊNCIA - SEMI-FINALS|Mirassol|Guarani|Mirassol|São Paulo|Estádio José Maria de Campos Maia|17/03/2023|null
 Paulista|SEMIFINALES|Palmeiras|Ituano|São Paulo|São Paulo|Allianz Parque|19/03/2023|14:00
+Paulista|SEMIFINALES|Água Santa|Bragantino|Santos|São Paulo|Estádio Urbano Caldeira|20/03/2023|19:00
 Paulista|TAÇA INDEPENDÊNCIA - FINAL|São Bernardo FC|Mirassol|São Bernardo do Campo|São Paulo|Estádio Primeiro de Maio|26/03/2023|14:00
-Paulista|FINAL|Palmeiras|Água Santa|São Paulo|São Paulo|Allianz Parque|09/04/2023|14:00
 Paulista|FINAL|Água Santa|Palmeiras|Barueri|São Paulo|Arena Barueri|02/04/2023|14:00
+Paulista|FINAL|Palmeiras|Água Santa|São Paulo|São Paulo|Allianz Parque|09/04/2023|14:00
