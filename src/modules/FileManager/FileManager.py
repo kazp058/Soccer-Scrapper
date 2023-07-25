@@ -15,6 +15,7 @@ class Objective:
     STRING = "STRING"
     OBJECT = "OBJECT"
     LIST = "LIST"
+    LIST_LIST = "LIST_LIST"
     DICT = "DICT"
 
 class FileManager:

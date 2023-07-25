@@ -60,7 +60,6 @@ class Distance:
         for line in __cache:
             current_distance = Distance.build_from_string(line)
             Distance.__DISTANCES.append(current_distance)
-        print("r:", Distance.__DISTANCES)
 
     def clean_cache() -> None:
         Distance.__DISTANCES = []

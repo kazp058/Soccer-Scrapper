@@ -4,6 +4,7 @@ from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
+from selenium.common.exceptions import TimeoutException
 
 import re
 import time
@@ -62,47 +63,61 @@ class Scrapper:
         return self.__cache
 
     def __gather_distances(self, address_a, address_b):
+        try:
+            replace = {"Estádio Distrital do Jardim Inamar,São Paulo,São Paulo":"Inamar Disitrict Stadium",
+                    "Allianz Parque,São Paulo,São Paulo":"Allianz Parque, Av Francisco Matarazzo 1705, São Paulo, Brazil",
+                    "Estádio Dr. Oswaldo Teixeira Duarte,São Paulo,São Paulo":"Estádio Doutor Osvaldo Teixeira Duarte, São Paulo-SP, Brazil"}
 
-        replace = {"Estádio Distrital do Jardim Inamar,São Paulo,São Paulo":"Inamar Disitrict Stadium",
-                "Allianz Parque,São Paulo,São Paulo":"Allianz Parque, Av Francisco Matarazzo 1705, São Paulo, Brazil",
-                "Estádio Dr. Oswaldo Teixeira Duarte,São Paulo,São Paulo":"Estádio Doutor Osvaldo Teixeira Duarte, São Paulo-SP, Brazil"}
+            address_a = replace[address_a] if address_a in replace.keys() else address_a
+            address_b = replace[address_b] if address_b in replace.keys() else address_b
 
-        address_a = replace[address_a] if address_a in replace.keys() else address_a
-        address_b = replace[address_b] if address_b in replace.keys() else address_b
+            self.driver.get("https://www.bing.com/maps/directions")    
+            WebDriverWait(driver=self.driver, timeout=5).until(
+                EC.presence_of_element_located((By.CSS_SELECTOR, 'div.directionsPanel'))
+            )
+            driving_box = self.driver.find_element(By.CSS_SELECTOR, "div.dirModes")
+            car_btn = driving_box.find_element(By.CSS_SELECTOR, "a.dirBtnDrive")
+            car_btn.click()
+            container = self.driver.find_element(By.CSS_SELECTOR, "ul[role=list]")
+            boxes = container.find_elements(By.CSS_SELECTOR, "li")
+            c_box = boxes[0].find_element(By.CSS_SELECTOR, "input")
+            #Rua Mauro de Prospero, 1203, Bragança Paulista - São Paulo, 12929, Brazil
+            #Estádio Cícero Pompeu de Toledo,São Paulo,São Paulo
+            c_box.send_keys(address_a)
+            c_box = boxes[1].find_element(By.CSS_SELECTOR, "input")
+            c_box.send_keys(address_b)
 
-        self.driver.get("https://www.bing.com/maps/directions")    
-        WebDriverWait(driver=self.driver, timeout=5).until(
-            EC.presence_of_element_located((By.CSS_SELECTOR, 'div.directionsPanel'))
-        )
-        driving_box = self.driver.find_element(By.CSS_SELECTOR, "div.dirModes")
-        car_btn = driving_box.find_element(By.CSS_SELECTOR, "a.dirBtnDrive")
-        car_btn.click()
-        container = self.driver.find_element(By.CSS_SELECTOR, "ul[role=list]")
-        boxes = container.find_elements(By.CSS_SELECTOR, "li")
-        c_box = boxes[0].find_element(By.CSS_SELECTOR, "input")
-        #Rua Mauro de Prospero, 1203, Bragança Paulista - São Paulo, 12929, Brazil
-        #Estádio Cícero Pompeu de Toledo,São Paulo,São Paulo
-        c_box.send_keys(address_a)
-        c_box = boxes[1].find_element(By.CSS_SELECTOR, "input")
-        c_box.send_keys(address_b)
+            buttonContainer = self.driver.find_element(By.CSS_SELECTOR,"div.drTimeGo")
+            button = buttonContainer.find_element(By.CSS_SELECTOR, "a.dirBtnGo")
+            time.sleep(3)
+            button.click()
+            time.sleep(10)
+            WebDriverWait(driver=self.driver, timeout=5).until(
+                EC.presence_of_element_located((By.CSS_SELECTOR, 'div.seeAllRoutesPanel'))
+            )
+            route_box = self.driver.find_element(By.CSS_SELECTOR, "li.drTitle")
+            distancecss = route_box.find_element(By.CSS_SELECTOR, "div.distanceLine")
 
-        buttonContainer = self.driver.find_element(By.CSS_SELECTOR,"div.drTimeGo")
-        button = buttonContainer.find_element(By.CSS_SELECTOR, "a.dirBtnGo")
-        time.sleep(3)
-        button.click()
-        time.sleep(10)
-        WebDriverWait(driver=self.driver, timeout=5).until(
-            EC.presence_of_element_located((By.CSS_SELECTOR, 'div.seeAllRoutesPanel'))
-        )
-        route_box = self.driver.find_element(By.CSS_SELECTOR, "li.drTitle")
-        distancecss = route_box.find_element(By.CSS_SELECTOR, "div.distanceLine")
-
-        time_box = route_box.find_element(By.CSS_SELECTOR, "table.drDurationTable")
-        hours = re.search(Scrapper.__capture_hour,time_box.text).groups()[0] if re.search(Scrapper.__capture_hour,time_box.text) != None else 0
-        minutes = re.search(Scrapper.__capture_minutes, time_box.text).groups()[0]  if re.search(Scrapper.__capture_minutes, time_box.text) != None else 0
-        distance = re.search(r'^([\d\.]+) km', distancecss.text).groups()[0]  if re.search(r'^([\d\.]+) km', distancecss.text) != None else 0
-        
-        self.__cache.append((distance, hours, minutes))
+            time_box = route_box.find_element(By.CSS_SELECTOR, "table.drDurationTable")
+            hours = re.search(Scrapper.__capture_hour,time_box.text).groups()[0] if re.search(Scrapper.__capture_hour,time_box.text) != None else 0
+            minutes = re.search(Scrapper.__capture_minutes, time_box.text).groups()[0]  if re.search(Scrapper.__capture_minutes, time_box.text) != None else 0
+            distance = re.search(r'^([\d\.]+) km', distancecss.text).groups()[0]  if re.search(r'^([\d\.]+) km', distancecss.text) != None else 0
+            
+            self.__cache.append((distance, hours, minutes))
+        except TimeoutException:
+            container = self.driver.find_element(By.CSS_SELECTOR, "ul[role=list]")
+            boxes = container.find_elements(By.CSS_SELECTOR, "li")
+            c_box = boxes[0].find_element(By.CSS_SELECTOR, "input")
+            box1 = c_box.get_property("value")
+            c_box = boxes[1].find_element(By.CSS_SELECTOR, "input")
+            box2 = c_box.get_property("value")
+            print("Intercepted a timeout exception")
+            if box1 == box2:
+                print("--> returned 0,0,0 due to same start and end locations")
+                self.__cache.append((0,0,0))
+            else:
+                time.sleep(20)
+                self.__gather_distances(address_a, address_b)
     
     def __prepare_match(self):
         btn_class = ''
