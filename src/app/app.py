@@ -79,7 +79,7 @@ class App:
            
 
     def __simulate():
-        Simulate.launch(0, Match.get_cache())
+        Simulate.launch(4, Match.get_cache())
         pass
 
     def __preload():
